@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol10/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 10: Adding Computations, Processes, and Validations
+## Unit 10: Adding Computations, Processes, and Validations
 
 This exercise includes four hands-on-labs.
 
@@ -23,7 +23,7 @@ HOL 10-2, HOL 10-3, and HOL 10-4 use the Budget App application.
 
 **HOL 10-4 Creating and Using Validations**: In this hands-on lab, you create a not null validation and a validation to ensure that the item is numeric.
 
-##HOL 10-1: Implementing Validations on the Maintain Project Page
+## HOL 10-1: Implementing Validations on the Maintain Project Page
 
 In this lab, you add validations to the Maintain Projects page so that when a user changes the status to Completed, they add the Completed Date and that it is not forward-dated.
 
@@ -95,7 +95,7 @@ In this lab, you add validations to the Maintain Projects page so that when a us
     ![7f2](images/hol10/image9.png)
 
 
-##HOL 10-2: Creating and Using a Computation
+## HOL 10-2: Creating and Using a Computation
 
 In this lab, you create a computation that changes the Assigned To value entered using the form to uppercase after the page is submitted.
 
@@ -139,7 +139,7 @@ In this lab, you create a computation that changes the Assigned To value entered
 	    ![1f](images/hol10/image15.png)
 
 
-##HOL 10-3: Creating and Using a Process
+## HOL 10-3: Creating and Using a Process
 
 In this lab, you create a process to insert a record into a table called AUDIT\_DETAILS every time a project is added.
 
