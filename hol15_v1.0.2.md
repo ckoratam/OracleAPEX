@@ -125,7 +125,7 @@ In this hands-on lab, first, you rename the breadcrumb entry for Page 9 as Maint
     On this page, you want to populate the Due Date whenever the Milestone is changed. In order to achieve this you will use a Dynamic Action with an action of Set Value, which can execute an AJAX call to retrieve data from the database.
 
 6.  Under Rendering &gt; Regions &gt; Edit Demo\_Proj\_Tasks, expand items.
-    Right-click **P9\_MILESTONE\_ID** and select **Create Dynamic Action**.
+    Right-click **P9\_MILESTONE\_ID** and select **Create Dynamic Action**. </br>
     ![2d](images/hol15/image14.png)
 
 7.  For the new Dynamic Action, in the Property Editor, for Name enter **Get Due Date**.
@@ -160,7 +160,7 @@ In this hands-on lab, first, you rename the breadcrumb entry for Page 9 as Maint
 9.  Navigate to Demo Projects application runtime environment.
     In the navigation menu, click Tasks.
 
-    In the interactive grid, click the Edit icon for a task with milestones.
+    In the interactive grid, click the Edit icon for a task with milestones. </br>
     ![2g](images/hol15/image17.png}
 
 10.  Try selecting different values for **Milestone** to see how the Due Date is updated based on the selection.
