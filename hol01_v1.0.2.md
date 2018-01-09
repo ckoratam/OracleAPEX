@@ -58,7 +58,7 @@ To log in to Oracle Application Express, you need a Workspace name, username, an
 
 10.  Accept the defaults and click **Next**.
 
-    ![2c](images/hol01/image12.png)
+   ![2c](images/hol01/image12.png)
 
 11. Click **Install Packaged App**.
 
