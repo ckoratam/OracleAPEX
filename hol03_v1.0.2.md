@@ -45,7 +45,7 @@ Generally, when developing an application you will not know all of the pages req
 
     -   DEMO\_PROJ\_MILESTONES
 
-    -   DEMO\_PROJ\_TASKS\
+    -   DEMO\_PROJ\_TASKS
         
         Click **Add Page**.
         ![1d](images/hol03/image6.png)
