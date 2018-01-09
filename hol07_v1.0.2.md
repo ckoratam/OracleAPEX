@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol07/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 7: Managing and Customizing Interactive Grids
+## Unit 7: Managing and Customizing Interactive Grids
 
 This exercise includes six hands-on-labs.
 
@@ -28,7 +28,7 @@ Labs HOL 7-5 and HOL 7-6 use the Budget App application.
 **HOL 7-6: Customizing an Interactive Grid as an End User**: In this lab, you use and customize the display of your Project Budget Interactive Grid.
 
 
-##HOL 7-1: Customizing the Team Members Interactive Grid
+## HOL 7-1: Customizing the Team Members Interactive Grid
 
 
 Developers can modify the SQL source query of an interactive grid. In this lab, you modify the source query of the Demo Proj Team Members interactive grid. Then, you hide columns that you do not want to be displayed in the interactive grid. Finally, you save the default settings of the interactive grid.
@@ -93,7 +93,7 @@ Developers can modify the SQL source query of an interactive grid. In this lab, 
     ![1f](images/hol07/image10.png)
 
 
-##HOL 7-2: Customizing the Projects Interactive Grid
+## HOL 7-2: Customizing the Projects Interactive Grid
 
 
 In this lab, you update the report source query and remove the column link defined on the ID column. Then, you customize the interactive grid by hiding the columns that need not be displayed, and creating an aggregation on the Tasks column. You save these customizations for all the users. Navigating back to the page designer, you define a column link on the NAME column.
@@ -218,7 +218,7 @@ In this lab, you update the report source query and remove the column link defin
     ![2](images/hol07/image24.png)
 
 
-##HOL 7-3 Customizing the Milestones Interactive Grid
+## HOL 7-3 Customizing the Milestones Interactive Grid
 
 
 In this lab, you modify the interactive grid source query. Then, you customize the interactive grid by hiding columns that need not be displayed, and sorting the interactive grid on the Due Date column. You also create an aggregation on the Tasks column and save the customizations made to the Primary interactive grid.
@@ -288,7 +288,7 @@ In this lab, you modify the interactive grid source query. Then, you customize t
 9.  You want to save the changes made to the primary interactive grid. **Select Actions &gt; Report &gt; Save**. The default report is now saved for all users.
 
 
-##HOL 7-4 Customizing the Tasks Interactive Grid
+## HOL 7-4 Customizing the Tasks Interactive Grid
 
 
 In this lab, you reconfigure which columns are displayed by default in the Demo Proj Tasks interactive grid. Then, you create control break on two columns, and sort the rows in the ascending order of Start Date. Finally, you save the default report for all users.
@@ -340,7 +340,7 @@ In this lab, you reconfigure which columns are displayed by default in the Demo 
 6.  You want to save the changes made to the primary interactive grid. **Select Actions &gt; Report &gt; Save**. The default report is now saved for all users.
 
 
-##HOL 7-5: Customizing an Interactive Grid as a Developer
+## HOL 7-5: Customizing an Interactive Grid as a Developer
 
 This lab uses the Budget App application. In this lab, you customize the interactive grid for end users. You create column groups, set pagination type, and set the report downloadable formats that should be available for end users. You also enable end users to save the report as Public interactive grids and convert a read only interactive grid to an editable interactive grid.
 
@@ -426,7 +426,7 @@ This lab uses the Budget App application. In this lab, you customize the interac
 9.  Click **Save**. Then, click **Save and Run Page**.
 
 
-##HOL 7-6: Customizing an Interactive Grid as an End User
+## HOL 7-6: Customizing an Interactive Grid as an End User
 
 In this lab, you use and customize the display of your interactive grid. You also edit an editable interactive grid.
 
