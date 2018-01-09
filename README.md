@@ -49,7 +49,7 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 - To log issues and view the Lab Guide source, go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository.
 
-- Visit the [Workshop Interactive Labguide](https://launch.oracle.com/?microservices-devops) for a visual overview of the workshop content. 
+- Visit the [Workshop Interactive Labguide](https://launch.oracle.com/?OracleAPEX-curriculum) for a visual overview of the workshop content. 
 
 ## Hands-on Labs Details
 
