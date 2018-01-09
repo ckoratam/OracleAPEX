@@ -2,11 +2,11 @@
 
 ![apex-round-128.pdf](images/hol14/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 14: Adding Additional Pages to your Application
+## Unit 14: Adding Additional Pages to your Application
 
 This exercise includes five hands-on-labs and uses the Demo Projects application.
 
@@ -33,7 +33,7 @@ The instructions in this exercise use the following page numbers:
  -   Page 21: Team Members Review
 
 
-##HOL 14-1: Creating and Customizing a Calendar
+## HOL 14-1: Creating and Customizing a Calendar
 
 In this hands-on lab, you create an authorization scheme to ensure only people entered as Team Members can log into the Demo Projects application. You apply the authorization scheme to the application properties.
 
@@ -163,7 +163,7 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 
 25.  In the Developer Toolbar, click **Application&lt;***n***&gt;**.
 
-##HOL 14-2: Adding the Project Tasks Chart
+## HOL 14-2: Adding the Project Tasks Chart
 
 
 In this hands-on lab, first you create a blank page named Reports. You select Reports as the Parent Navigation Menu Entry for all of the three charts and the Tree page you create in the Demo Projects application.
@@ -308,7 +308,7 @@ In this hands-on lab, first you create a blank page named Reports. You select Re
     ![project\_tasks\_chart](images/hol14/image42.png)
 
 
-##HOL 14-3: Adding the Project Milestones Chart
+## HOL 14-3: Adding the Project Milestones Chart
 
 
 In this hands-on lab, you create a bar chart to show the past and future milestones .
@@ -396,7 +396,7 @@ In this hands-on lab, you create a bar chart to show the past and future milesto
     ![new9](images/hol14/image51.png)
 
 
-##HOL 14-4: Adding the Project Leads Chart
+## HOL 14-4: Adding the Project Leads Chart
 
 
 In this hands-on lab, you create a bar chart to review the completed and incomplete tasks of team members.
@@ -499,7 +499,7 @@ In this hands-on lab, you create a bar chart to review the completed and incompl
     ![4i](images/hol14/image58.png)
 
 
-##HOL 14-5: Adding the Project Tree
+## HOL 14-5: Adding the Project Tree
 
 
 In this hands-on lab, you create the Project Tree and then update the application navigation menu. You create a blank page and then add the Tree region.
