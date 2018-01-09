@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol04/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 5: Developing Reports
+## Unit 5: Developing Reports
 
 
 This exercise includes three hands-on-labs.
@@ -19,7 +19,7 @@ This exercise includes three hands-on-labs.
 **HOL 5-3 Creating an Interactive Grid**: In this hands-on lab, you use the Create Page wizard and add an interactive grid page in the Budget App application.
 
 
-##HOL 5-1 Creating a Classic Report
+## HOL 5-1 Creating a Classic Report
 
 
 
@@ -86,7 +86,7 @@ In the Demo Projects application, you create a report that allows each Team Memb
     In the Developer Toolbar, click **Home**.
 
 
-##HOL 5-2 Creating an Interactive Report
+## HOL 5-2 Creating an Interactive Report
 
 
 In this lab, you create an interactive report on the HARDWARE table. You created this table in HOL 2-2. First, you create a database application and then you create the interactive report page.
@@ -141,7 +141,7 @@ In this lab, you create an interactive report on the HARDWARE table. You created
     In the Developer Toolbar, click **Home**.
 
 
-##HOL 5-3 Creating an Interactive Grid
+## HOL 5-3 Creating an Interactive Grid
 
 
 In this lab, you create an interactive grid on the PROJECT\_BUDGET table. You already created the Budget App application in HOL 3-2. Now, you create an interactive grid in the Budget App application.
