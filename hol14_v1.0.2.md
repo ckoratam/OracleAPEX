@@ -199,8 +199,7 @@ In this hands-on lab, first you create a blank page named Reports. You select Re
     ![2\_8](images/hol14/image28.png)
 
 11.  In the Application Express toolbar, click **Run Page 16**.
-    
-    ![2\_9](images/hol14/image29.png)
+     ![2\_9](images/hol14/image29.png)
 
 12.  Notice the icon for Reports in the navigation menu.
     Now you add charts to the Demo Projects application.
@@ -278,8 +277,8 @@ In this hands-on lab, first you create a blank page named Reports. You select Re
 	
 	-   Value Column: VALUE
 
-     Click **Create**.
-    ![2f](images/hol14/image36.png)
+   Click **Create**.
+   ![2f](images/hol14/image36.png)
 
 19.  In the page designer, rename the chart region title as **Project Tasks**.
     ![2g](images/hol14/image37.png)
@@ -312,7 +311,7 @@ In this hands-on lab, first you create a blank page named Reports. You select Re
 
 In this hands-on lab, you create a bar chart to show the past and future milestones .
 
-1.  View Page 19: Tasks Review in page designer. In the page designer, on the toolbar, click the **Create** (+) icon and select **Page as Copy**.
+1.  View Page 19: Tasks Review in page designer. In the page designer, on the toolbar, click the **Create** (+) icon and select **Page as Copy**. 
     ![new1](images/hol14/image43.png)
 
 2.  For Create a page as a copy of, select **Page in this application** and click **Next**.
@@ -400,7 +399,7 @@ In this hands-on lab, you create a bar chart to show the past and future milesto
 
 In this hands-on lab, you create a bar chart to review the completed and incomplete tasks of team members.
 
-1.  View Page 20: Milestones Review in page designer. In the page designer, on the toolbar, click the **Create** (+) icon and select **Page as Copy**.
+1.  View Page 20: Milestones Review in page designer. In the page designer, on the toolbar, click the **Create** (+) icon and select **Page as Copy**. </br>
     ![new1](images/hol14/image43.png)
 
 2.  For Create a page as a copy of, select **Page in this application** and click **Next**.
@@ -549,7 +548,6 @@ In this hands-on lab, you create the Project Tree and then update the applicatio
 
 10.  In the property editor, navigate to Settings and for Tooltip, select **Database Column**.
     Click **Save**. Then, click **Save and Run Page**.
-    
     ![5g](images/hol14/image66.png)
 
 11.  The project tree is displayed.
@@ -577,7 +575,6 @@ In this hands-on lab, you create the Project Tree and then update the applicatio
      For Project Tree row, click the Sequence column field and enter value as **110**. Similarly, for Tasks Review, Milestones Review, and Team Members Review, enter the sequence values as **120**, **130**, and **140**.
      Click the **Save** button.
     Then, in the Application Express toolbar, click **Run Page 18**.
-
     ![nav6](images/hol14/image73.png)
 
 18.  The updated navigation menu is displayed.
