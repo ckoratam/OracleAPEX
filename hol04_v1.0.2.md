@@ -58,8 +58,8 @@ In this lab, you create a dashboard by adding a new component to the Home page o
 
      f) For Body Height select **480px**.
        Click **OK**.        
-       </p>
-        ![1g](images/hol04/image11.png)
+       </br>
+       ![1g](images/hol04/image11.png)
 
      g) For certain region types, such as Charts, there are also Attribute properties. The region properties determine how the region is displayed, whereas, the Attributes for a region (where available) are used to define the characteristics of the region, and how the contents of the region are displayed.
 
