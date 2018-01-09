@@ -362,7 +362,7 @@ This lab uses the Budget App application. In this lab, you customize the interac
 	-   Project Financing: Cost, Budget columns
 
 	a)  In the page designer, under Rendering &gt; Regions, navigate to Project Budget Interactive Grid region and right-click **Attributes**. Select Create **Column Group**. </br>
-	    ![5b](images/hol07/image35.png)
+	    ![5b](images/hol07/image35.png)  </br>
 	b)  In the Property Editor, enter **Work Breakdown** for Heading. </br>
 	    ![5c](images/hol07/image36.png) </br>
 	
