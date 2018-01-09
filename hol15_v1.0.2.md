@@ -348,10 +348,9 @@ In this hands-on lab, you create the Badge List Plug-in as a copy of the plug-in
 
      **Note**: This query has three sub-queries, separated by UNION ALL that will be displayed as three separate badges within the region.
 
-    ![5c](images/hol15/image43.png)
+  ![5c](images/hol15/image43.png)
 
-18.  In the property editor, navigate to Appearance and click **Template Options**.
-   
+18.  In the property editor, navigate to Appearance and click **Template Options**. </br>   
     ![5d](images/hol15/image44.png)
 
 19.  In the Template Options dialog, select the **Remove Body Padding** check box.
@@ -367,14 +366,12 @@ In this hands-on lab, you create the Badge List Plug-in as a copy of the plug-in
 	
 	-   Settings: Value - select **VALUE**
 
-    For Link Target, click **No Link Defined**.
-
+    For Link Target, click **No Link Defined**. </br>
     ![5f](images/hol15/image46.png)
 
 21.  In the Link Builder – Link Target dialog, select URL for Type. For URL, enter **&LINK.**.
     Click **OK**.
-    Note: When you enter **&LINK.** ensure you include the period.
-
+    Note: When you enter **&LINK.** ensure you include the period. </br>
     ![5g](images/hol15/image47.png)
 
 22.  Click **Save and Run Page**.
