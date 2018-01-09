@@ -316,7 +316,7 @@ In this lab, you reconfigure which columns are displayed by default in the Demo 
 	
 	-   Is Complete Yn
 
-    Click **Save**.
+    Click **Save**. </br>
 
 4.  Group the records by project and milestones.
 
@@ -364,7 +364,7 @@ This lab uses the Budget App application. In this lab, you customize the interac
 	a)  In the page designer, under Rendering &gt; Regions, navigate to Project Budget Interactive Grid region and right-click **Attributes**. Select Create **Column Group**. </br>
 	    ![5b](images/hol07/image35.png)
 	b)  In the Property Editor, enter **Work Breakdown** for Heading. </br>
-	    ![5c](images/hol07/image36.png)
+	    ![5c](images/hol07/image36.png) </br>
 	
 	c)  Repeat the above two steps a and b to create column groups: **Schedule** and **Project Financing**.
 	
@@ -422,7 +422,7 @@ This lab uses the Budget App application. In this lab, you customize the interac
 
 
 
-8.  Delete the column groups in the interactive grid. Under Rendering &gt; Project Budget Interactive Grid &gt; Attributes, expand Column Groups. Right-click **Project Financing** and click **Delete**. Similarly, delete the Schedule and Work Breakdown column groups.
+8.  Delete the column groups in the interactive grid. Under Rendering &gt; Project Budget Interactive Grid &gt; Attributes, expand Column Groups. Right-click **Project Financing** and click **Delete**. Similarly, delete the Schedule and Work Breakdown column groups. </br>
     ![5k](images/hol07/image45.png)
 
 9.  Click **Save**. Then, click **Save and Run Page**.
@@ -514,27 +514,27 @@ In this lab, you use and customize the display of your interactive grid. You als
 21.  Notice that the Primary interactive grid and the interactive grid you saved now are available in the Reports drop down list.
     You want to return back to the Primary interactive grid. Click **Primary Report** in the Reports drop down list.
     ![6y](images/hol07/image67.png)
-
-22.  You want to make few more customizations and save the interactive grid as another Private report. You do not want the Start Date, End Date, and Assigned To columns to be displayed in the report.
+</br>
+22.  You want to make few more customizations and save the interactive grid as another Private report. You do not want the Start Date, End Date, and Assigned To columns to be displayed in the report. </br>
     Click the **Start Date** column header and then click **Hide**. </br>
     ![7a](images/hol07/image68.png)
     Repeat this step for the **End Date** and **Assigned To** columns.
-
-23.  Resize the columns’ width using the mouse.
+</br>
+23.  Resize the columns’ width using the mouse.</br>
     ![7b](images/hol07/image69.png)
 
-24.  You want to add a chart to the interactive grid. Select **Actions &gt; Chart**.
-    ![7c](images/hol07/image70.png)
-
+24.  You want to add a chart to the interactive grid. Select **Actions &gt; Chart**. </br>
+    ![7c](images/hol07/image70.png) </br>
+</br>
 25.  In the Chart dialog:
 
-	-   Type: Select **Bar**
-	
-	-   Label: Select **Project**
-	
-	-   Value: Select **Cost**
-	
-	-   Aggregation: Select **Sum**
+-   Type: Select **Bar**
+
+-   Label: Select **Project**
+
+-   Value: Select **Cost**
+
+-   Aggregation: Select **Sum**
 
 	 Click **Save**.
 	 ![7d](images/hol07/image71.png)
