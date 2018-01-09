@@ -246,7 +246,7 @@ In this lab, you update the Project Tree page that you created in HOL 14-5. You 
 14.  In the Developer Toolbar, click Application&lt;*n*&gt;.
 
 
-##HOL 15-4: Creating and Using a Plug-in
+## HOL 15-4: Creating and Using a Plug-in
 
 
 In this hands-on lab, you create the Badge List Plug-in as a copy of the plug-in from the Sample Charts application. On the application home page, you create a badge list region. On this region, you display three different badges: Open Projects, Upcoming Milestones, and Open Tasks.
@@ -382,7 +382,7 @@ In this hands-on lab, you create the Badge List Plug-in as a copy of the plug-in
 22.  Click **Save and Run Page**.
 
 
-##HOL 15-5: Updating the Home Page
+## HOL 15-5: Updating the Home Page
 
 
 In this lab, you create a dashboard by adding new components to the Home page of the Demo Projects application. You already created a badge list region in HOL 15-4. This lab covers adding the Recent Projects classic report region and modifying the Summary region attributes.
