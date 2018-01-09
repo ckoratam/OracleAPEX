@@ -83,7 +83,7 @@ In the Demo Projects application, you create a report that allows each Team Memb
 10.  Click **Save**. Run the application to see how the Home page looks now. Click **Save and Run Page**. Your home page might look like:
     ![1](images/hol05/image11.png)
 
-    In the Developer Toolbar, click **Home**.
+   In the Developer Toolbar, click **Home**.
 
 
 ## HOL 5-2 Creating an Interactive Report
