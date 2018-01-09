@@ -516,7 +516,8 @@ In this lab, you use and customize the display of your interactive grid. You als
     ![6y](images/hol07/image67.png)
 </br>
 22.  You want to make few more customizations and save the interactive grid as another Private report. You do not want the Start Date, End Date, and Assigned To columns to be displayed in the report. </br>
-    Click the **Start Date** column header and then click **Hide**. </br>
+
+   Click the **Start Date** column header and then click **Hide**. </br>
     ![7a](images/hol07/image68.png)
     Repeat this step for the **End Date** and **Assigned To** columns.
 </br>
