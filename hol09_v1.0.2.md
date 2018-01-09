@@ -227,7 +227,8 @@ In this lab, you update the page items on the form page. This lab covers creatin
     In the Layout, hold the Ctrl key and select the items: **P5\_CREATED**, **P5\_CREATED\_BY**, **P5\_UPDATED**, and **P5\_UPDATED\_BY**. </br>
   Then, right-click and select **Delete**. </br>
   ![2k1](images/hol09/image32.png)
-   Click **Save**. </br>
+   </br>
+Click **Save**. </br>
 
 22.  In page designer, navigate to **Page 3**.
 
