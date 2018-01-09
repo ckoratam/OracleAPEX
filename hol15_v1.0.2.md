@@ -364,7 +364,7 @@ In this hands-on lab, you create the Badge List Plug-in as a copy of the plug-in
 
 	-   Settings: Top Label - select **LABEL**
 	
-	-   Settings: Value - select **VALUE**
+	-   Settings: Value - select **VALUE** </br>
     For Link Target, click **No Link Defined**. </br>
     ![5f](images/hol15/image46.png)
 
