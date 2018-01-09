@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol06/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 6: Managing and Customizing Interactive Reports
+## Unit 6: Managing and Customizing Interactive Reports
 
 This exercise includes two hands-on-labs.
 
@@ -18,7 +18,7 @@ This exercise includes two hands-on-labs.
 Both these hands-on-labs utilize the Hardware application that you created in HOL 5-2.
 
 
-##HOL 6-1: Using an Interactive Report
+## HOL 6-1: Using an Interactive Report
 
 1.  First, you run the Hardware application. To do this, navigate to **Application Builder**. In the report, click the **Run** button for **Hardware**.
     ![1a](images/hol06/image3.png)
@@ -354,7 +354,7 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 	    ![21](images/hol06/image58.png)
 
 
-##HOL 6-2: Customizing an Interactive Report as a Developer
+## HOL 6-2: Customizing an Interactive Report as a Developer
 
 In this lab, you edit an interactive report in page designer and customize it for end users.
 
