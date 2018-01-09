@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol08/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 9: Creating Application Page Controls
+## Unit 9: Creating Application Page Controls
 
 
 This exercise includes four hands-on-labs. The labs cover creating and updating page items, adjusting button properties, and making the form pages visually appealing. You also create and use Dynamic and Static List of Values.
@@ -21,7 +21,7 @@ This exercise includes four hands-on-labs. The labs cover creating and updating 
 **HOL 9-4 Updating the Tasks Pages**: In this hands-on lab, you create a new page item, update existing items on the form, and create a collapsible sub-region. You also use the list of values created as shared components.
 
 
-##HOL 9-1 Updating the Team Members Pages
+## HOL 9-1 Updating the Team Members Pages
 
 In this lab, you update the page items on the form page. You create an Audit Details collapsible sub-region on the form page. You make the form page visually appealing. This lab also covers updating the button properties and adjusting the button display on the interactive grid.
 
@@ -29,7 +29,7 @@ In this lab, you update the page items on the form page. You create an Audit Det
     In the navigation menu, click **Demo Proj Team Members**.
     In the Developer Toolbar, click **Edit Page 2**.
 
-2.  By default, buttons are positioned in the region they are associated with. Move the Create button at the top of the page to the Breadcrumbs region. In the Rendering tree, locate the CREATE button under Content Body. Click and hold the **CREATE** button and drag it up into the Breadcrumbs region.
+2.  By default, buttons are positioned in the region they are associated with. Move the Create button at the top of the page to the Breadcrumbs region. In the Rendering tree, locate the CREATE button under Content Body. Click and hold the **CREATE** button and drag it up into the Breadcrumbs region. </br>
     ![1a](images/hol09/image3.png)
 
 3.  The CREATE button will appear as a child within its own Region Buttons folder.
@@ -106,12 +106,10 @@ In this lab, you update the page items on the form page. You create an Audit Det
 12.  Page 3 is a dialog and so you cannot run it directly. Navigate to the application runtime environment. In the navigation menu, click **Demo Proj Team Members**.
     Notice the **Add Team Member** button.
     In the report, select a team member record to view the improved modal dialog.
-
     ![1n](images/hol09/image16.png)
-
     ![1o](images/hol09/image17.png)
 
-##HOL 9-2 Updating the Projects Pages
+## HOL 9-2 Updating the Projects Pages
 
 In this lab, you update the page items on the form page. This lab covers creating and using List of Values. You create both static and dynamic list of values. You create an Audit Details collapsible sub-region on the form page.
 
@@ -149,18 +147,12 @@ In this lab, you update the page items on the form page. This lab covers creatin
 
 10.  In the property editor:
 
-	-   Identification &gt; Type: select **Select List**
-	
-	-   Heading &gt; Alignment: select **Start**
-	
-	-   Layout &gt; Column Alignment: select **Start**
-	
-	-   List of Values &gt; Type: select **Shared Component**
-	
-	-   List of Values: select **Team Members**
-
+   -   Identification &gt; Type: select **Select List**
+   -   Heading &gt; Alignment: select **Start**
+   -   Layout &gt; Column Alignment: select **Start**
+   -   List of Values &gt; Type: select **Shared Component**
+   -   List of Values: select **Team Members**
     Click **Save**.
-
     ![2f](images/hol09/image23.png)
 
 11.  It would look more aesthetically pleasing to place the Create button at the top of the page.
@@ -190,54 +182,52 @@ In this lab, you update the page items on the form page. This lab covers creatin
 
 17.  In the Layout, under Content Body, click the **P5\_DESCRIPTION** item. In the Property Editor:
 
-	-   Identification: Type – select **Text Area**
+   -   Identification: Type – select **Text Area**
 	
-	-   Appearance: Width – enter **70**
-
+   -   Appearance: Width – enter **70**
     ![2j2](images/hol09/image28.png)
 
 18.  In the Layout, under Content Body, click the **P5\_PROJECT\_LEAD** item. In the Property Editor:
 
-	-   Identification: Type– select **Select List**
+   -   Identification: Type– select **Select List**
 	
-	-   List of Values: Type – select **Shared Component**
+   -   List of Values: Type – select **Shared Component**
 	
-	-   List of Values: List of Values – select **Team Members**
+   -   List of Values: List of Values – select **Team Members**
 	
-	-   List of Values: Display Extra Values – select **No**
+   -   List of Values: Display Extra Values – select **No**
 	
-	-   List of Values: Null Display Value – enter **-Select Team Member-**
-
+   -   List of Values: Null Display Value – enter **-Select Team Member-**
     ![2j3](images/hol09/image29.png)
 
 19.  Next define a static list of statuses. You can not define a dynamic list, as you did for TEAM\_MEMBERS, as there is no separate table which stores the statuses. In the Layout, locate the **P5\_STATUS** item.
     In the Property Editor:
 
-	-   Identification: Type: select **Select List**
-	
-	-   List of Values: Type: select **Static Values**
-	
-	-   List of Values: Static Values – enter **STATIC2:Assigned,In-Progress,Completed**
-	
-	-   List of Values: Display Extra Values – select **No**
-	
-	-   List of Values: Display Null Value – select **No**
+   -   Identification: Type: select **Select List**
 
-     **Note**: By specifying STATIC2 the records will be displayed in the order entered, rather than in alphabetic order.
+   -   List of Values: Type: select **Static Values**
 
-    ![2j4](images/hol09/image30.png)
+   -   List of Values: Static Values – enter **STATIC2:Assigned,In-Progress,Completed**
+
+   -   List of Values: Display Extra Values – select **No**
+
+   -   List of Values: Display Null Value – select **No**
+
+   **Note**: By specifying STATIC2 the records will be displayed in the order entered, rather than in alphabetic order.
+
+   ![2j4](images/hol09/image30.png)
 
 20.  Click the **P5\_COMPLETED\_DATE** item.
     In the property editor, under Appearance, select **Required** for Template.
-    Then, click **Save**.
+    Then, click **Save**. </br>
     ![2j5](images/hol09/image31.png)
 
 21.  In the lab HOL 9-1, you created a sub-region called Audit Details for the Maintain Team Member page (Page 3). Since the four items included in that region are the same as those on the Maintain Project page and are associated with the exact same database columns, you can copy them to the Maintain Project page. This approach is easier than creating a new region and updating the items. Copying the region will also copy the previously defined template and template options.
     Delete the four audit items before copying the Audit Details region to this page. If you do not delete them, the item names in the copied Audit Details region will be renamed with a unique name (for example, P5\_CREATED will be renamed to P5\_CREATED\_1) to ensure all page items have unique names. Although this renaming will not break the page processing, Oracle does not recommend this approach.
     In the Layout, hold the Ctrl key and select the items: **P5\_CREATED**, **P5\_CREATED\_BY**, **P5\_UPDATED**, and **P5\_UPDATED\_BY**.
-    Then, right-click and select **Delete**. </br>
-    ![2k1](images/hol09/image32.png)
-    Click **Save**. </br>
+  Then, right-click and select **Delete**. </br>
+  ![2k1](images/hol09/image32.png)
+   Click **Save**. </br>
 
 22.  In page designer, navigate to **Page 3**.
 
@@ -266,7 +256,7 @@ In this lab, you update the page items on the form page. This lab covers creatin
     ![2k7](images/hol09/image38.png)
 
 
-##HOL 9-3 Updating the Milestones Pages
+## HOL 9-3 Updating the Milestones Pages
 
 In this lab, you update the page items on the form page. You create the Audit Details collapsible sub-region by copying it from another page in the application. You make the form page visually appealing. This lab also covers creating and using list of values.
 
@@ -410,7 +400,7 @@ In this lab, you update the page items on the form page. You create the Audit De
     ![3j](images/hol09/image50.png)
 
 
-##HOL 9-4 Updating the Tasks Pages
+## HOL 9-4 Updating the Tasks Pages
 
 
 In this lab, you update the page items on the form page. You use list of values created as shared components. This lab also covers creating a new page item on the form page. You make the form page visually appealing.
