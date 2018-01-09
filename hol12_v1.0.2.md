@@ -2,11 +2,11 @@
 
 ![apex-round-128.pdf](images/hol12/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 12: Using Themes and Theme Styles
+## Unit 12: Using Themes and Theme Styles
 
 
 This exercise includes three hands-on-labs.
@@ -22,7 +22,7 @@ HOL 12-3 uses the Budget App application.
 **HOL 12-3 Creating and Using Theme Styles**: In this hands-on lab, you use the Budget App application. You use the Theme Roller to save the changes made to the Theme Style and then enable users to apply this Theme Style in the running application.
 
 
-##HOL 12-1: Updating the Navigation List
+## HOL 12-1: Updating the Navigation List
 
 In this hands-on lab, you update the navigation list in the Demo Projects application. You create a new list entry and make this new entry as a parent list entry to the Logout entry.
 
@@ -79,7 +79,7 @@ In this hands-on lab, you update the navigation list in the Demo Projects applic
     ![1h](images/hol12/image12.png)
 
 
-##HOL 12-2: Updating the Team Member Pages
+## HOL 12-2: Updating the Team Member Pages
 
 In this lab, you update the Team Member pages by replacing the Interactive Grid with a card region. This will provide a directory of your team members' contact information and roles as though you had a stack of their business cards at hand.
 
@@ -189,7 +189,7 @@ In this lab, you update the Team Member pages by replacing the Interactive Grid 
     ![2f](images/hol12/image20.png)
 
 
-##HOL 12-3: Using Themes and Theme Styles
+## HOL 12-3: Using Themes and Theme Styles
 
 In this hands-on lab, you use the Theme Roller to save a Theme Style. Then, you enable end users to apply this style while running the application.
 
@@ -231,8 +231,7 @@ In this hands-on lab, you use the Theme Roller to save a Theme Style. Then, you 
     ![3i](images/hol12/image28.png)
 
 10.  The Theme Style is applied and you see a message that says Preferences changed for user &lt;*username*&gt;.
-    
-    ![3j](images/hol12/image29.png)
+     ![3j](images/hol12/image29.png)
 
 ----------
 ![Snap3](images/hol12/image30.gif)
