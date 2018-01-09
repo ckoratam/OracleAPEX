@@ -77,8 +77,8 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 	
 	-   Style - select **Remove UI Decoration**
 
-    Click **OK**. </br>
-    ![1h](images/hol14/image10.png)
+   Click **OK**. </br>
+   ![1h](images/hol14/image10.png)
 
 11.  Click **Save and Run Page**.
     ![1i](images/hol14/image11.png)
@@ -107,12 +107,11 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 19.  You need to add the Create and View / Edit links. In the Rendering tree, locate the Calendar region.
     Click **Attributes** under the Calendar region.
 
-    In the Property Editor, locate Create Link and click **No Link Defined**.
-    ![1q](images/hol14/image17.png)
+   In the Property Editor, locate Create Link and click **No Link Defined**.
+   ![1q](images/hol14/image17.png)
 
 20.  In the Link Builder – Create Link dialog, select **9** for Page, and enter **9** for Clear Cache.
     Click **OK**.
-    
     ![1r](images/hol14/image18.png)
 
 21.  In the Property Editor, locate View/Edit Link and click **No Link Defined**.
@@ -128,9 +127,9 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 	
 	-   Clear Cache - enter **9**
 
-    Click **OK**.
+   Click **OK**.
 
-    ![1t](images/hol14/image20.png)
+   ![1t](images/hol14/image20.png)
 
 23.  You can enable calendar drag and drop by using the component attribute Drag and Drop. Your SQL query must select a primary key column and you must have set the Primary Key Column calendar attribute. Then enter the PL/SQL code to update the event row in the database in the Drag and Drop PL/SQL Code attribute. That PL/SQL code typically performs a SQL update on the database table - the bind variables :APEX$PK_VALUE., :APEX$NEW\_START\_DATE and :APEX$NEW\_END\_DATE contain the dragged events primary key value as well as the new start and new end timestamp.
 
@@ -154,9 +153,9 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 		      end;
   
 
-    Then, click **Save**.
+   Then, click **Save**.
 
-    ![calendar](images/hol14/image21.png)
+   ![calendar](images/hol14/image21.png)
 
 24.  Click **Save and Run Page**.
     ![1u](images/hol14/image16.png)
