@@ -4,12 +4,12 @@
 ![apex-round-128.pdf](images/hol03/image2.jpeg)
 
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 3: Creating a Database Application
+## Unit 3: Creating a Database Application
 
 
 This exercise includes three hands-on-labs.
@@ -21,7 +21,7 @@ This exercise includes three hands-on-labs.
 **HOL 3-3 Creating a Websheet Application**: In this hands-on lab, you create a Websheet application for the Tech Sales Team daily reporting.
 
 
-##HOL 3-1: Creating a Database Application from Scratch
+## HOL 3-1: Creating a Database Application from Scratch
 
 
 In this lab, you create the initial application using the Create Application wizard to define multiple pages. Now that you have created the underlying tables, you are ready to create a desktop application. You will be adding reports and forms for the tables you created.
@@ -108,7 +108,7 @@ Generally, when developing an application you will not know all of the pages req
 10. Your screen should look like the following:
     ![1h](images/hol03/image10.png)
 
-##HOL 3-2: Creating a Database Application from a Spreadsheet
+## HOL 3-2: Creating a Database Application from a Spreadsheet
 
 
 In this lab, you use a spreadsheet to create a database application.
@@ -141,7 +141,7 @@ In this lab, you use a spreadsheet to create a database application.
     ![2i](images/hol03/image19.png)
 
 
-##HOL 3-3: Creating a Websheet Application
+## HOL 3-3: Creating a Websheet Application
 
 Tech Sales Team management want to track the daily status of the sales executives. You help them create a Websheet application. Once created, managers add pages for daily status and executives simply enter their daily status online by logging in to the Websheet application.
 
