@@ -507,12 +507,12 @@ In this lab, you create a dashboard by adding new components to the Home page of
 	-   BLOB Attributes &gt; Filename Column: Select **PHOTO\_FILENAME**
 	
 	-   BLOB Attributes &gt; LAST\_UPDATED Column: Select **PHOTO\_LAST\_UPDATED**
-</br>
-    Click **Save and Run Page**. </br>
-    ![6i](images/hol15/image57.png)
-    ![6j](images/hol15/image58.png)
-    The Home page is displayed now.
-    ![6k](images/hol15/image59.png)
+
+   Click **Save and Run Page**.
+   ![6i](images/hol15/image57.png)
+   ![6j](images/hol15/image58.png)
+   The Home page is displayed now.
+   ![6k](images/hol15/image59.png)
 
 11.  You can set color for the badges.
     Navigate to page designer and under Rendering, expand Regions &gt; Summary. Then, select **Attributes**.
