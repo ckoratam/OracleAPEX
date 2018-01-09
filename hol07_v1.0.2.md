@@ -86,7 +86,7 @@ Developers can modify the SQL source query of an interactive grid. In this lab, 
 
 11.  To keep the changes you just made, you must save the report. If you were to log out and log back into the runtime environment, or another user runs the report, then the columns you just removed would be visible again.
     A Primary interactive grid displays to all users. Only the developer who creates an interactive grid can save a new Primary interactive grid, rename it, or delete it.
-    Click **Actions** and select **Report &gt; Save**.
+    Click **Actions** and select **Report &gt; Save**. </br>
     ![1e](images/hol07/image9.png)
 
 12.  The default report is now saved for all users.</br>
@@ -158,7 +158,7 @@ In this lab, you update the report source query and remove the column link defin
     ![2d](images/hol07/image14.png)
 
 6.  In the property editor, under Link &gt; Target, you see *No Link Defined*. Navigate to Heading and enter **ID**.
-    Click **Save**. Then, click **Save and Run Page**.
+    Click **Save**. Then, click **Save and Run Page**. </br>
     ![2e](images/hol07/image15.png)
 
 7.  You are now in the application runtime environment. Click **Actions &gt; Columns**.
@@ -179,15 +179,15 @@ In this lab, you update the report source query and remove the column link defin
 
 
 
-	a)  Click the Add (**+**) button.
-	
-	b)  For column, select **Milestones**, for Aggregation, select **Sum**, and select the **Show Overall Value** checkbox.
-	
-	c)  Click the **Add** (+) button again.
-	
-	d)  For Column, select **Tasks**, select **Sum for Aggregation**, and select the **Show Overall Value** checkbox.
-	
-	e)  Click **Save**.
+a)  Click the Add (**+**) button.
+
+b)  For column, select **Milestones**, for Aggregation, select **Sum**, and select the **Show Overall Value** checkbox.
+
+c)  Click the **Add** (+) button again.
+
+d)  For Column, select **Tasks**, select **Sum for Aggregation**, and select the **Show Overall Value** checkbox.
+
+e)  Click **Save**.
 	    ![2j2](images/hol07/image20.png)
 
 
@@ -202,18 +202,20 @@ In this lab, you update the report source query and remove the column link defin
 
 17.  In the Link Builder – Target dialog:
 
-	-   Page - enter **5**
-	
-	-   Name - select **P5\_ID**
-	
-	-   Value - select **\#ID\#**
-	
-	-   Clear Cache - enter **5**
+-   Page - enter **5**
+
+-   Name - select **P5\_ID**
+
+-   Value - select **\#ID\#**
+
+-   Clear Cache - enter **5**
 
     Click **OK**.</br>
    ![2k2](images/hol07/image22.png)
+   
 18.  For Link Text, under Link, use the quick pick to select **NAME**.</br>
     ![2k3](images/hol07/image23.png)
+    
 19.  Click **Save**. Then, click **Save and Run Page**. The Demo Projects interactive grid might now look like:
     ![2](images/hol07/image24.png)
 
