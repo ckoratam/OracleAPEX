@@ -530,8 +530,7 @@ In this lab, you create a dashboard by adding new components to the Home page of
     ![6l](images/hol15/image60.png)
 
 12.  The Home page now is displayed with the colored badges.
-   
-    ![6n](images/hol15/image61.png)
+     ![6n](images/hol15/image61.png)
 
 ----------
 
