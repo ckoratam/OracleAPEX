@@ -227,8 +227,8 @@ In this lab, you update the page items on the form page. This lab covers creatin
     In the Layout, hold the Ctrl key and select the items: **P5\_CREATED**, **P5\_CREATED\_BY**, **P5\_UPDATED**, and **P5\_UPDATED\_BY**. </br>
   Then, right-click and select **Delete**. </br>
   ![2k1](images/hol09/image32.png)
-   </br>
-Click **Save**. </br>
+ 
+ Click **Save**. </br>
 
 22.  In page designer, navigate to **Page 3**.
 
@@ -322,15 +322,15 @@ In this lab, you update the page items on the form page. You create the Audit De
 
 12.  In the Property Editor:
 
-	-   Identification: Label - enter **Create Milestone**
+   -   Identification: Label - enter **Create Milestone**
 	
-	-   Layout: Region - select **Breadcrumbs**
+   -   Layout: Region - select **Breadcrumbs**
 	
-	-   Layout: Button Position - select **Create**
+   -   Layout: Button Position - select **Create**
 	
-	-   Appearance: Hot - select **Yes**
+   -   Appearance: Hot - select **Yes**
 
-    ![3e](images/hol09/image44.png)
+   ![3e](images/hol09/image44.png)
 
 13.  Click **Save**. Then, click **Save and Run Page**.
     ![3f](images/hol09/image45.png)
@@ -339,40 +339,40 @@ In this lab, you update the page items on the form page. You create the Audit De
 
 15.  Update the page items. Under Rendering, expand Items, select the **P7\_PROJECT\_ID** item. In the Property Editor:
 
-	-   Identification: Type - select **Select List**
-	
-	-   Label: Label - enter **Project**
-	
-	-   Appearance: Template - select **Required**
-	
-	-   Validation: Value Required - select **Yes**
-	
-	-   List of Values: Type - select **Shared Component**
-	
-	-   List of Values: List of Values - select **PROJECTS**
-	
-	-   List of Values: Display Extra Values - select **No**
-	
-	-   List of Values: Null Display Value - enter **– Select Project –** </br>
+-   Identification: Type - select **Select List**
 
-	 ![3g1](images/hol09/image46.png) </br>
-	 ![3g2](images/hol09/image47.png)
+-   Label: Label - enter **Project**
+
+-   Appearance: Template - select **Required**
+
+-   Validation: Value Required - select **Yes**
+
+-   List of Values: Type - select **Shared Component**
+
+-   List of Values: List of Values - select **PROJECTS**
+
+-   List of Values: Display Extra Values - select **No**
+
+-   List of Values: Null Display Value - enter **– Select Project –** </br>
+
+ ![3g1](images/hol09/image46.png) </br>
+ ![3g2](images/hol09/image47.png)
 
 16.  In the Rendering tree, select the **P7\_NAME** item. In the Property Editor:
 
-	-   Label: Label - enter **Milestone**
-	
-	-   Appearance: Template - select **Required**
-	
-	-   Appearance: Width - enter **60**
-	
-	-   Validation: Value Required - select **Yes**
+-   Label: Label - enter **Milestone**
+
+-   Appearance: Template - select **Required**
+
+-   Appearance: Width - enter **60**
+
+-   Validation: Value Required - select **Yes**
 
 17.  In the Layout, select the **P7\_DESCRIPTION** item. In the Property Editor:
 
-	-   Identification: Type - select **Textarea**
-	
-	-   Appearance: Width - enter **70**
+-   Identification: Type - select **Textarea**
+
+-   Appearance: Width - enter **70**
 
 18.  Delete the four audit items from the Maintain Milestone page. Under Rendering, hold the Ctrl key and select the items: **P7\_CREATED**, **P7\_CREATED\_BY**, **P7\_UPDATED**, and **P7\_UPDATED\_BY**.
     Then, right-click and select **Delete**.
@@ -487,7 +487,7 @@ In this lab, you update the page items on the form page. You use list of values 
       `decode (IS\_COMPLETE\_YN, 'Y', 'Yes', 'No') as "IS\_COMPLETE\_YN",`
       
 
-    ![4d](images/hol09/image54.png)
+   ![4d](images/hol09/image54.png)
 
 15.  In the Rendering tree, click the **IS\_COMPLETE\_YN** column.
     In the Property Editor, for Heading enter **Completed?**
@@ -496,13 +496,13 @@ In this lab, you update the page items on the form page. You use list of values 
     Select the **Create** button.
     In the Property Editor:
 
-	-   Identification: Label - enter **Create Task**
-	
-	-   Layout: Region - select **Breadcrumbs**
-	
-	-   Layout: Button Position - select **Create**
-	
-	-   Appearance: Hot - select **Yes**
+-   Identification: Label - enter **Create Task**
+
+-   Layout: Region - select **Breadcrumbs**
+
+-   Layout: Button Position - select **Create**
+
+-   Appearance: Hot - select **Yes**
 
     ![4e](images/hol09/image55.png)
 
@@ -518,21 +518,21 @@ In this lab, you update the page items on the form page. You use list of values 
 
 21.  Update the page items. The first requirement is to shuffle the page items, using drag and drop in either the Rendering tree or the Layout, such that the items are in the following order:
 
-	-   P9\_PROJECT\_ID
-	
-	-   P9\_MILESTONE\_ID
-	
-	-   P9\_NAME
-	
-	-   P9\_DESCRIPTION
-	
-	-   P9\_ASSIGNEE
-	
-	-   P9\_START\_DATE
-	
-	-   P9\_END\_DATE
-	
-	-   P9\_IS\_COMPLETE\_YN
+-   P9\_PROJECT\_ID
+
+-   P9\_MILESTONE\_ID
+
+-   P9\_NAME
+
+-   P9\_DESCRIPTION
+
+-   P9\_ASSIGNEE
+
+-   P9\_START\_DATE
+
+-   P9\_END\_DATE
+
+-   P9\_IS\_COMPLETE\_YN
 
     ![5a](images/hol09/image57.png)
 
