@@ -91,14 +91,12 @@ On the Maintain Project page, the Completed Date field is displayed irrespective
 13.  Now, you can verify to see if the dynamic action works as expected.
     Navigate to the Demo Projects application runtime environment. If the Maintain Project dialog is open, click **Cancel**.
     In the navigation menu, click **Projects** and then in the report, click any project name with the Status as COMPLETED.
-    Notice that the Completed Date field is displayed.
-    
+    Notice that the Completed Date field is displayed.    
     ![DA2](images/hol15/image9.png)
 
 14.  In the Maintain Project dialog, for Status Cd, select either Assigned or In-Progress.
     Notice that this time, the Completed Date field is hidden.
-    Click the **Cancel** button.
-    
+    Click the **Cancel** button.    
     ![DA3](images/hol15/image10.png)
 
 
