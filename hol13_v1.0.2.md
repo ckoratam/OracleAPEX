@@ -3,11 +3,11 @@
 
 ![apex-round-128.pdf](images/hol13/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 13: Implementing Security in your Application
+## Unit 13: Implementing Security in your Application
 
 Application security is very important in the majority of applications, except for "Public" applications. You must ensure users enter valid credentials, generally username and password (Authentication), and that once logged in that each user has appropriate rights within the application (Authorization).
 
@@ -24,7 +24,7 @@ HOL 13-2 and 13-3 use the Budget App application.
 **HOL 13-3 Controlling User Access by Using the Access Control Administration**: In this hands-on lab you create three different users as Administrator, Developer and End User. You create an Access Control Administration page, set the application mode to restrict access and add these users to the Access Control list. Finally, you apply the authorization scheme to pages and verify if users are allowed or denied access.
 
 
-##HOL 13-1: Creating and Using an Authorization Scheme
+## HOL 13-1: Creating and Using an Authorization Scheme
 
 In this hands-on lab, you create an authorization scheme to ensure only people entered as Team Members can log into the Demo Projects application. You apply the authorization scheme to the application properties.
 
@@ -32,7 +32,7 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
     In the Developer Toolbar, click Application &lt;*n*&gt;.
 
 2.  In the application home page, click **Shared Components**.
-    Under Shared Components &gt; Security, click **Authorization Schemes**.
+    Under Shared Components &gt; Security, click **Authorization Schemes**. </br>
     ![1a](images/hol13/image3.png)
 
 3.  Click **Create**.
@@ -102,16 +102,13 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 	
 	-   Require Change of Password on First Use - No
 
-    Click **Create User**.
-
-    ![1i](images/hol13/image11.png)
-
-    ![1j](images/hol13/image12.png)
+   Click **Create User**.
+   ![1i](images/hol13/image11.png)
+   ![1j](images/hol13/image12.png)
 
 11.  Navigate to the runtime environment (tab or window). Click **Logout** in the navigation bar (top left).
 
 12.  On the Log In page, for Username enter **unauthorized**, and for Password enter **unauthorized**.
-
     Click **Log In**. </br>
     ![1j1](images/hol13/image13.png)
 
@@ -124,8 +121,8 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
      Click **Log In**.
 
 
-*HOL 13-2: Creating and Using an Authentication Scheme*
-====================================================
+## HOL 13-2: Creating and Using an Authentication Scheme
+
 
 In this hands-on lab, you create an authentication scheme named Open Door Credentials in the Budget App application. Upon creation, this scheme becomes Current Scheme by default. You test this scheme by logging in to the application. Finally, you switch back to Application Express Authentication scheme.
 
@@ -179,7 +176,7 @@ In this hands-on lab, you create an authentication scheme named Open Door Creden
 15. Notice that the authentication scheme has changed. Enter your username and password and click **Log In**.
 
 
-##HOL 13-3: Controlling User Access by Using the Access Control Administration
+## HOL 13-3: Controlling User Access by Using the Access Control Administration
 
 In this hands-on lab, you first create an access control page and set the application mode to restrict access. Then, you create the access control list and assign the Budget App application components to an authorization scheme.
 
@@ -298,7 +295,6 @@ In this hands-on lab, you first create an access control page and set the applic
 19.  Enter **apex\_user** for Username, select **View** for Privilege and click **Add User**.
 
 20.  Enter &lt;*your username*&gt; for Username, select **Administrator** for Privilege and click **Apply Changes**.
-    
     ![3m](images/hol13/image39.png)
 
 21.  Now, you are ready to define and apply the authorization schemes to each application component.
@@ -309,8 +305,8 @@ In this hands-on lab, you first create an access control page and set the applic
 	
 	-   Users with the View privilege can review the interactive report, but cannot modify the data.
 
-    In the application runtime environment, click **Project\_Budget** in the navigation menu.
-    In the Developer Toolbar, click **Edit Page 1**.
+   In the application runtime environment, click **Project\_Budget** in the navigation menu.
+   In the Developer Toolbar, click **Edit Page 1**.
 
 22.  Under Rendering, expand Regions. Under the Project Budget region, select **Attributes**.
     In the property editor, locate Authorization Scheme and select **access control-edit** from the list.
@@ -323,8 +319,8 @@ In this hands-on lab, you first create an access control page and set the applic
 
 24.  You also want to protect against direct access to the Project Budget form dialog page. Though you restrict end users from editing the interactive report on the Home page, they can still access the Project Budget form page by entering the correct URL in the browser. To avoid this, you must restrict the Form page access to only users with the Edit and Administrator privilege.
    
-    In the page designer, click **Navigate to Next Page** arrow in the toolbar.
-    You are now viewing the Project Budget form page in page designer.
+   In the page designer, click **Navigate to Next Page** arrow in the toolbar.
+   You are now viewing the Project Budget form page in page designer.
 
 25.  Under Rendering, select **Page 2: Project Budget**.
     Under Rendering, navigate to **Security** and select **access control-edit** for Authorization Scheme.
@@ -333,8 +329,8 @@ In this hands-on lab, you first create an access control page and set the applic
 
 26.  Users with the Administrator privilege can only make changes to the access control list. Therefore, you must set the authorization scheme for the Access Control Administration page accordingly.
     
-    In the page designer, enter the Access Control Administration page number in the Page Finder and click **Go**.
-    ![4a](images/hol13/image43.png)
+   In the page designer, enter the Access Control Administration page number in the Page Finder and click **Go**.
+   ![4a](images/hol13/image43.png)
 
 27.  Under Rendering, select Page&lt;*n*&gt;: Access Control Administration Page.
     In the property editor, navigate to Security and select **access control-administrator** for Authorization Scheme.
