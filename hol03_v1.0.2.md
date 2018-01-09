@@ -28,7 +28,7 @@ In this lab, you create the initial application using the Create Application wiz
 
 Generally, when developing an application you will not know all of the pages required at the beginning. Therefore, you will only generate a select number of pages initially, and then use the wizard to add additional pages as required. However, for this exercise you will generate most of the pages required for the application up front.
 
-1.  Using the Create Application Wizard, create the Demo Projects application. Navigate to **App Builder** and then click **Create**.
+1.  Using the Create Application Wizard, create the Demo Projects application. Navigate to **App Builder** and then click **Create**. </br>
     ![1a](images/hol03/image3.png)
 
 2.  Click **Desktop**.
