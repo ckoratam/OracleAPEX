@@ -3,11 +3,11 @@
 ![apex-round-128.pdf](images/hol01/image2.jpeg)
 
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 1: Getting Started with Oracle Application Express
+## Unit 1: Getting Started with Oracle Application Express
 
 To log in to Oracle Application Express, you need a Workspace name, username, and the password created for that Workspace. In this hands-on-lab, you log in to your Oracle Application Express Workspace. Once logged in, you navigate through the major components of Oracle Application Express. This lab also covers installing and running a packaged application.
 
