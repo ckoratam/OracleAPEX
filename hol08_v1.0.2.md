@@ -36,15 +36,15 @@ In the Demo Projects application, you create a report that allows each Team Memb
 5.  Under Rendering, select the Edit\_Demo\_Proj\_Team\_Members region. In the property editor, navigate to Appearance &gt; Template Options. Click **Use Template Defaults**.
    ![1d](images/hol08/image6.png)
 
-6.  In the Template Options dialog, under Advanced, for Item Width, select **Stretch Form Fields** and click **OK**. Then, click **Save**.
+6.  In the Template Options dialog, under Advanced, for Item Width, select **Stretch Form Fields** and click **OK**. Then, click **Save**. </br>
    ![1e](images/hol08/image7.png)
 
 7.  Now, modify the default Project form page to be more visually appealing and consistent with how the Maintain Team Member page was improved. Navigate to the application runtime environment. In the navigation menu, click **Demo Projects**.
 
-8.  Click one of the Project names, to open a modal dialog.
+8.  Click one of the Project names, to open a modal dialog. </br>
     ![1f](images/hol08/image8.png)
 
-9.  In the runtime environment, after selecting a project, in the Developer Toolbar, click **Edit Page 5**.
+9.  In the runtime environment, after selecting a project, in the Developer Toolbar, click **Edit Page 5**. </br>
     ![1g](images/hol08/image9.png)
 
 10. In the Property Editor:
