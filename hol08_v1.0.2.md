@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol08/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 8: Creating and Using Forms
+## Unit 8: Creating and Using Forms
 
 
 This exercise includes two hands-on-labs.
@@ -17,7 +17,7 @@ This exercise includes two hands-on-labs.
 **HOL 8-2 Creating a Form on a Table and Linking a Report**: In this hands-on lab, you create a form on the PROJECT\_BUDGET table. Then, you create a classic report on the PROJECT\_BUDGET table and link this report to the form. This lab utilizes the Budget App application.
 
 
-##HOL 8-1 Updating the Form Pages in the Demo Projects Application
+## HOL 8-1 Updating the Form Pages in the Demo Projects Application
 
 In the Demo Projects application, you create a report that allows each Team Member to see their outstanding tasks.
 
@@ -34,10 +34,10 @@ In the Demo Projects application, you create a report that allows each Team Memb
     ![1c](images/hol08/image5.png)
 
 5.  Under Rendering, select the Edit\_Demo\_Proj\_Team\_Members region. In the property editor, navigate to Appearance &gt; Template Options. Click **Use Template Defaults**.
-    ![1d](images/hol08/image6.png)
+   ![1d](images/hol08/image6.png)
 
 6.  In the Template Options dialog, under Advanced, for Item Width, select **Stretch Form Fields** and click **OK**. Then, click **Save**.
-    ![1e](images/hol08/image7.png)
+   ![1e](images/hol08/image7.png)
 
 7.  Now, modify the default Project form page to be more visually appealing and consistent with how the Maintain Team Member page was improved. Navigate to the application runtime environment. In the navigation menu, click **Demo Projects**.
 
@@ -91,7 +91,7 @@ In the Demo Projects application, you create a report that allows each Team Memb
 	 ![1p](images/hol08/image17.png)
 
 
-##HOL 8-2: Creating a Form on a Table and Linking a Report
+## HOL 8-2: Creating a Form on a Table and Linking a Report
 
 
 In this lab, you first create a classic report on the PROJECT\_BUDGET table. Then, you create a form on the PROJECT\_BUDGET table. Finally, you link the classic report to the form.
