@@ -106,7 +106,7 @@ It is essential to have at least the tables defined in order for the Create Appl
     c)  To review the package you created, select Packages and select DEMO\_PROJECTS\_DATA\_PKG. Click **Body** to review the primary PL/SQL rather than the specification.
 </p>![4b1](images/hol02/image18.png)     
 
-    **Note**: This package includes complex PL/SQL code to insert images and replicate users entering in records. It is not important that you understand the PL/SQL code in this package, as you will not normally have to populate data in this matter. Generally, you would create the tables with no data and then use the application you build to insert the records.
+   **Note**: This package includes complex PL/SQL code to insert images and replicate users entering in records. It is not important that you understand the PL/SQL code in this package, as you will not normally have to populate data in this matter. Generally, you would create the tables with no data and then use the application you build to insert the records.
     ![4b2](images/hol02/image19.png)
 
 
