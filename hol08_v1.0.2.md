@@ -136,7 +136,7 @@ In this lab, you first create a classic report on the PROJECT\_BUDGET table. The
 
     The form page is created successfully.
 
-4.  The form you just created is a dialog page and so you cannot run it directly. If you click the Save and Run Page, you see this message:
+4.  The form you just created is a dialog page and so you cannot run it directly. If you click the Save and Run Page, you see this message: </br>
     ![2c](images/hol08/image20.png)
 
 5.  You want to navigate to the Project Budget Report page in the page designer. In the toolbar, click the Navigate to previous page arrow (down arrow).
