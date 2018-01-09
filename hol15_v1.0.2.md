@@ -2,11 +2,11 @@
 
 ![apex-round-128.pdf](images/hol15/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 15: Creating and Using Dynamic Actions and Plug-ins
+## Unit 15: Creating and Using Dynamic Actions and Plug-ins
 
 This exercise includes five hands-on-labs and uses the Demo Projects application.
 
@@ -21,7 +21,7 @@ This exercise includes five hands-on-labs and uses the Demo Projects application
 **HOL 15-5 Updating the Home Page**: In this hands-on lab you create a dashboard by adding new components to the Home page of the application. You replace the Project Tasks chart with the Recent Projects classic report region. Then, you adjust the Recent Projects and My Outstanding Tasks regions so that they are placed horizontally next to each other. Finally, you modify the Summary region (Badge) attributes to enable the colorful display of the badges.
 
 
-##HOL 15-1: Creating and Using a Dynamic Action on the Maintain Project Page
+## HOL 15-1: Creating and Using a Dynamic Action on the Maintain Project Page
 
 
 
@@ -102,7 +102,7 @@ On the Maintain Project page, the Completed Date field is displayed irrespective
     ![DA3](images/hol15/image10.png)
 
 
-##HOL 15-2: Creating and Using a Dynamic Action on the Maintain Task Page
+## HOL 15-2: Creating and Using a Dynamic Action on the Maintain Task Page
 
 In this hands-on lab, first, you rename the breadcrumb entry for Page 9 as Maintain Task. Then, you add a dynamic action on this page to populate the Due Date whenever the Milestone is changed.
 
@@ -169,7 +169,7 @@ In this hands-on lab, first, you rename the breadcrumb entry for Page 9 as Maint
     ![2h](images/hol15/image18.png)
 
 
-##HOL 15-3: Creating and Using Dynamic Actions on the Project Tree Page
+## HOL 15-3: Creating and Using Dynamic Actions on the Project Tree Page
 
 In this lab, you update the Project Tree page that you created in HOL 14-5. You add two buttons: Collapse All and Expand All. You use them to expand and contract the project tree nodes. You create a dynamic action on each of these buttons. Then, for each of the button, you set the action as defined by the dynamic action.
 
