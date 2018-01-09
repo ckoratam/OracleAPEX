@@ -92,7 +92,7 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 
    To create a user, input the following:
 
-   -   Username - enter unauthorized
+    -   Username - enter unauthorized
 	
    -   Email Address - enter unauthorized@email.com
 	
