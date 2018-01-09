@@ -138,7 +138,7 @@ In this lab, you create an interactive report on the HARDWARE table. You created
 
 9.  Enter your Workspace username and password. Click **Sign In**. Your interactive report might look like:
     ![2](images/hol05/image15.png)
-    In the Developer Toolbar, click **Home**.
+   In the Developer Toolbar, click **Home**.
 
 
 ## HOL 5-3 Creating an Interactive Grid
