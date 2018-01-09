@@ -198,7 +198,7 @@ In this hands-on lab, first you create a blank page named Reports. You select Re
     Click **Apply Changes**.
     ![2\_8](images/hol14/image28.png)
 
-11.  In the Application Express toolbar, click **Run Page 16**.
+11.  In the Application Express toolbar, click **Run Page 16**. </br>
      ![2\_9](images/hol14/image29.png)
 
 12.  Notice the icon for Reports in the navigation menu.
@@ -547,7 +547,7 @@ In this hands-on lab, you create the Project Tree and then update the applicatio
     ![5f2](images/hol14/image65.png)
 
 10.  In the property editor, navigate to Settings and for Tooltip, select **Database Column**.
-    Click **Save**. Then, click **Save and Run Page**.
+    Click **Save**. Then, click **Save and Run Page**. </br>
     ![5g](images/hol14/image66.png)
 
 11.  The project tree is displayed.
