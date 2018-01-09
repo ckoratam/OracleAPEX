@@ -515,7 +515,6 @@ In this lab, you create a dashboard by adding new components to the Home page of
 	-   BLOB Attributes &gt; LAST\_UPDATED Column: Select **PHOTO\_LAST\_UPDATED**
 
     Click **Save and Run Page**.
-
     ![6i](images/hol15/image57.png)
 
     ![6j](images/hol15/image58.png)
