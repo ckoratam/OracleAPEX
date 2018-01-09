@@ -112,7 +112,7 @@ It is essential to have at least the tables defined in order for the Create Appl
 
 ----------
 
-##HOL 2-2: Creating a Lookup Table
+## HOL 2-2: Creating a Lookup Table
 
 
 In this hands-on-lab, you use the Data Workshop utility to create a table and populate the table with data. Once this table is created, you also create a lookup table.
