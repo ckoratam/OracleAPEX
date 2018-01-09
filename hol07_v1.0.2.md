@@ -519,7 +519,8 @@ In this lab, you use and customize the display of your interactive grid. You als
 
    Click the **Start Date** column header and then click **Hide**. </br>
     ![7a](images/hol07/image68.png)
-    Repeat this step for the **End Date** and **Assigned To** columns.
+    
+   Repeat this step for the **End Date** and **Assigned To** columns.
 </br>
 23.  Resize the columns’ width using the mouse.</br>
     ![7b](images/hol07/image69.png)
