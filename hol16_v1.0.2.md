@@ -2,11 +2,11 @@
 
 ![apex-round-128.pdf](images/hol16/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 16: Migrating Application Development Between Environments
+## Unit 16: Migrating Application Development Between Environments
 
 This exercise includes two hands-on-labs and uses the Demo Projects application.
 
@@ -17,7 +17,7 @@ This exercise includes two hands-on-labs and uses the Demo Projects application.
 Steps 3 through 15 in this lab are optional. You need a target APEX environment to perform these steps. To test these steps you might want to use a different Workspace. If you want to import the application in to the same Workspace, then you might have to choose a different application ID. Installing database objects and seed data will still fail, as they are already created.
 
 
-##HOL 16-1: Importing an Application
+## HOL 16-1: Importing an Application
 
 In this lab, you import an application in to your Workspace. Along with the application definition, you also install the supporting objects.
 
@@ -67,7 +67,7 @@ This lab uses the application export file **demo projects app export-unit 15.sql
     **Note**: The installation of database objects and seed data may succeed or fail, depending on what database objects are already created. If installation fails, click **Install Summary**, and review the errors. The errors should relate to objects already existing, such as ORA-00955: name is already used by an existing object.
 
 
-##HOL 16-2: Migrating your Application Development between Environments
+## HOL 16-2: Migrating your Application Development between Environments
 
 In this lab, you export an application definition, underlying database objects along with the seed data.
 Steps 3 through 15 are optional. After exporting application from the current development environment, you log in to the target Application Express environment, import the application and then load the tables along with data.
