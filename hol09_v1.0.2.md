@@ -565,13 +565,13 @@ In this lab, you update the page items on the form page. You use list of values 
 	-   List of Values: SQL Query - cut and paste the following:
 
   
-	      select name as display, id as return
-	      
-	      from demo_proj_milestones
-	      
-	      where project_id = :P9_PROECT_ID
-	      
-	      order by 1
+		      select name as display, id as return
+
+		      from demo_proj_milestones
+
+		      where project_id = :P9_PROECT_ID
+
+		      order by 1
      
 
 	-   List of Values: Display Extra Values - select **No**
@@ -580,7 +580,7 @@ In this lab, you update the page items on the form page. You use list of values 
 	
 	-   List of Values: Cascading LOV Parent Item(s) - select **P9\_PROJECT\_ID**
 
-     **Note**: You cannot use the MILESTONES List of Values for this item, as this query needs to limit the milestone records returned to those for the selected project, using P9\_PROJECT\_ID. </br>
+   **Note**: You cannot use the MILESTONES List of Values for this item, as this query needs to limit the milestone records returned to those for the selected project, using P9\_PROJECT\_ID. </br>
     ![5b](images/hol09/image58.png)</br>
     ![5c](images/hol09/image59.png)
 
