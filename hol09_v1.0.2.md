@@ -390,7 +390,7 @@ In this lab, you update the page items on the form page. You create the Audit De
 
 23.  In Page Designer, navigate back to **Page 7**.
 
-24.  In the Rendering tree, select the **Audit Details** sub region. In the Property Editor, for Layout: Parent Region select **Edit DEMO\_PROJ\_MILESTONES**.
+24.  In the Rendering tree, select the **Audit Details** sub region. In the Property Editor, for Layout: Parent Region select **Edit DEMO\_PROJ\_MILESTONES**. </br>
     ![3I](images/hol09/image49.png)
 
 25.  Now, reposition the buttons. Under Rendering &gt; Buttons &gt; Region Buttons, select **CANCEL**. In the property editor, for Layout: Button Position select **Previous**.
