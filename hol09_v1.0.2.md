@@ -184,7 +184,7 @@ In this lab, you update the page items on the form page. This lab covers creatin
 
    -   Identification: Type – select **Text Area**
 	
-   -   Appearance: Width – enter **70**
+   -   Appearance: Width – enter **70** </br>
     ![2j2](images/hol09/image28.png)
 
 18.  In the Layout, under Content Body, click the **P5\_PROJECT\_LEAD** item. In the Property Editor:
@@ -222,9 +222,9 @@ In this lab, you update the page items on the form page. This lab covers creatin
     Then, click **Save**. </br>
     ![2j5](images/hol09/image31.png)
 
-21.  In the lab HOL 9-1, you created a sub-region called Audit Details for the Maintain Team Member page (Page 3). Since the four items included in that region are the same as those on the Maintain Project page and are associated with the exact same database columns, you can copy them to the Maintain Project page. This approach is easier than creating a new region and updating the items. Copying the region will also copy the previously defined template and template options.
-    Delete the four audit items before copying the Audit Details region to this page. If you do not delete them, the item names in the copied Audit Details region will be renamed with a unique name (for example, P5\_CREATED will be renamed to P5\_CREATED\_1) to ensure all page items have unique names. Although this renaming will not break the page processing, Oracle does not recommend this approach.
-    In the Layout, hold the Ctrl key and select the items: **P5\_CREATED**, **P5\_CREATED\_BY**, **P5\_UPDATED**, and **P5\_UPDATED\_BY**.
+21.  In the lab HOL 9-1, you created a sub-region called Audit Details for the Maintain Team Member page (Page 3). Since the four items included in that region are the same as those on the Maintain Project page and are associated with the exact same database columns, you can copy them to the Maintain Project page. This approach is easier than creating a new region and updating the items. Copying the region will also copy the previously defined template and template options. </br>
+    Delete the four audit items before copying the Audit Details region to this page. If you do not delete them, the item names in the copied Audit Details region will be renamed with a unique name (for example, P5\_CREATED will be renamed to P5\_CREATED\_1) to ensure all page items have unique names. Although this renaming will not break the page processing, Oracle does not recommend this approach. </br>
+    In the Layout, hold the Ctrl key and select the items: **P5\_CREATED**, **P5\_CREATED\_BY**, **P5\_UPDATED**, and **P5\_UPDATED\_BY**. </br>
   Then, right-click and select **Delete**. </br>
   ![2k1](images/hol09/image32.png)
    Click **Save**. </br>
