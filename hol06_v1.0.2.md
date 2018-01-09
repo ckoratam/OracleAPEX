@@ -150,17 +150,17 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 
 
 
-	a)  Select **Actions &gt; Format &gt; Highlight**. </br>
-	    ![8a](images/hol06/image28.png)
-	
-	b)  In the Highlight dialog, enter **Price with Tax less than \$2400** for Name.
-	    Select **yellow** for Background Color and **red** for Text Color.
-	    For Highlight Condition: Select **\*\*Price with Tax** column, and **&lt;** Operator. Enter **2400** for Expression.
-	    Click Apply.
-	    ![8b](images/hol06/image29.png)
-	
-	c)  Notice that the rows that meet the condition are highlighted now.
-	    ![8c](images/hol06/image30.png)
+a)  Select **Actions &gt; Format &gt; Highlight**. </br>
+    ![8a](images/hol06/image28.png)
+
+b)  In the Highlight dialog, enter **Price with Tax less than \$2400** for Name.
+    Select **yellow** for Background Color and **red** for Text Color.
+    For Highlight Condition: Select **\*\*Price with Tax** column, and **&lt;** Operator. Enter **2400** for Expression.
+    Click Apply.
+    ![8b](images/hol06/image29.png)
+
+c)  Notice that the rows that meet the condition are highlighted now.
+    ![8c](images/hol06/image30.png)
 
 
 
@@ -168,59 +168,59 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 
 
 
-	a)  Select **Actions &gt; Chart**. </br>
-	    ![9a](images/hol06/image31.png)
-	
-	b)  In the Chart dialog, select / enter the following:
-	
-	-   Chart Type: **Horizontal Column**
-	
-	-   Label: **Cpu Type**
-	
-	-   Value: **\*\*Price with Tax**
-	
-	-   Function: **Sum**
-	
-	-   Axis Title for Label: **Cpu Type**
-	
-	-   Axis Title for Value: **Price with Tax**
-	
-	 Click **Apply**.
-	 ![9b](images/hol06/image32.png)
-	
-	c)  The chart is created. Toggle between the View Chart and View Report.
-	    ![9c](images/hol06/image33.png)
-	
-	d)  You want to remove the control break and the highlighting. Click the X icon for both the filters.
-	    ![9d](images/hol06/image34.png)
+a)  Select **Actions &gt; Chart**. </br>
+    ![9a](images/hol06/image31.png)
+
+b)  In the Chart dialog, select / enter the following:
+
+-   Chart Type: **Horizontal Column**
+
+-   Label: **Cpu Type**
+
+-   Value: **\*\*Price with Tax**
+
+-   Function: **Sum**
+
+-   Axis Title for Label: **Cpu Type**
+
+-   Axis Title for Value: **Price with Tax**
+
+ Click **Apply**.
+ ![9b](images/hol06/image32.png)
+
+c)  The chart is created. Toggle between the View Chart and View Report.
+    ![9c](images/hol06/image33.png)
+
+d)  You want to remove the control break and the highlighting. Click the X icon for both the filters.
+    ![9d](images/hol06/image34.png)
 
 
 12.  Create a Group By report to display each Cpu Type with the total purchase price.
 
 
 	
-	a)  Select **Actions &gt; Group By**.</br>
-	    ![10a](images/hol06/image35.png)
-	
-	b)  In the Group By dialog enter / select:
+a)  Select **Actions &gt; Group By**.</br>
+    ![10a](images/hol06/image35.png)
 
-	-   Group By Column: **Cpu Type**
-	
-	-   Function: **Sum**
-	
-	-   Column: **Purchase Price**
-	
-	-   Label: **Total Price**
-	
-	-   Format Mask: **\$5,234.10**
-	
-	   Select the **Sum** check box and click **Apply**.
-	  ![10b](images/hol06/image36.png)
-	
-	c)  The Group By report is created. You also see the sum of the purchase price. Notice that the icon for View Group By is also added.
-	    ![10c](images/hol06/image37.png)
-	
-	d)  Click the **X** to the right of Edit Group By to remove the filter.
+b)  In the Group By dialog enter / select:
+
+-   Group By Column: **Cpu Type**
+
+-   Function: **Sum**
+
+-   Column: **Purchase Price**
+
+-   Label: **Total Price**
+
+-   Format Mask: **\$5,234.10**
+
+   Select the **Sum** check box and click **Apply**.
+  ![10b](images/hol06/image36.png)
+
+c)  The Group By report is created. You also see the sum of the purchase price. Notice that the icon for View Group By is also added.
+    ![10c](images/hol06/image37.png)
+
+d)  Click the **X** to the right of Edit Group By to remove the filter.
 
 
 
@@ -228,25 +228,25 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 
 
 
-	a)  Click **Actions &gt; Pivot**.</br>
-	    ![11a](images/hol06/image38.png)
-	
-	b)  In the Pivot dialog enter / select:
-		
-	-   Pivot Column: **Cpu Type**
-	
-	-   Row Column: **Department Id**
-	
-	-   Functions: **Count**
-	
-	-   Column: **Cpu Type**
-	
-	  Click **Apply**.
-	
-	  ![11b](images/hol06/image39.png)
-	
-	c)  The Pivot report is displayed and a View Pivot icon is created.
-	    ![11c](images/hol06/image40.png)
+a)  Click **Actions &gt; Pivot**.</br>
+    ![11a](images/hol06/image38.png)
+
+b)  In the Pivot dialog enter / select:
+
+-   Pivot Column: **Cpu Type**
+
+-   Row Column: **Department Id**
+
+-   Functions: **Count**
+
+-   Column: **Cpu Type**
+
+  Click **Apply**.
+
+  ![11b](images/hol06/image39.png)
+
+c)  The Pivot report is displayed and a View Pivot icon is created.
+    ![11c](images/hol06/image40.png)
 
 
 
@@ -254,10 +254,10 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 
 
 
-	a)  Select **Actions &gt; Report &gt; Save Report**.</br>
-	    ![12a](images/hol06/image41.png)
-	
-	b)  Enter **My Report** for Name and click **Apply**.
+a)  Select **Actions &gt; Report &gt; Save Report**.</br>
+    ![12a](images/hol06/image41.png)
+
+b)  Enter **My Report** for Name and click **Apply**.
 
 
 
@@ -265,30 +265,30 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
     You want to reset the Primary Report back to the default settings and remove any customizations that you have made so far.
 
 
-	a)  Select **Primary Report** from the Reports drop down list. The primary report is now displayed. You can make any changes to this report and it will not be reflected in the 'My Report' private report you just created. </br>
-	
-	b)  Select **Actions &gt; Reset**.</br>
-	    ![13a](images/hol06/image42.png)
-	
-	c)  In the Reset dialog, click **Apply**.</br>
-	    ![13b](images/hol06/image43.png)
-	
-	d)  From the Reports drop down list, select **My Report**.
-	    ![13c](images/hol06/image44.png)
+a)  Select **Primary Report** from the Reports drop down list. The primary report is now displayed. You can make any changes to this report and it will not be reflected in the 'My Report' private report you just created. </br>
+
+b)  Select **Actions &gt; Reset**.</br>
+    ![13a](images/hol06/image42.png)
+
+c)  In the Reset dialog, click **Apply**.</br>
+    ![13b](images/hol06/image43.png)
+
+d)  From the Reports drop down list, select **My Report**.
+    ![13c](images/hol06/image44.png)
 
 
 
 16.  You want to download the customized report as a CSV.
 
 
-	a)  Select **Actions &gt; Download**. </br>
-	    ![14a](images/hol06/image45.png)
-	
-	b)  In the Download dialog, select **CSV**.</br>
-	    ![14b](images/hol06/image46.png)
-	
-	c)  The report is now downloaded as a CSV. </br>
-	    ![14c](images/hol06/image47.png)
+a)  Select **Actions &gt; Download**. </br>
+    ![14a](images/hol06/image45.png)
+
+b)  In the Download dialog, select **CSV**.</br>
+    ![14b](images/hol06/image46.png)
+
+c)  The report is now downloaded as a CSV. </br>
+    ![14c](images/hol06/image47.png)
 
 
 
@@ -299,59 +299,59 @@ Both these hands-on-labs utilize the Hardware application that you created in HO
 
 
 	
-	a)  Click the **Department Id** header and select **Sort Descending**.
-	    ![17a](images/hol06/image49.png)
-	
-	b)  The report is now sorted in the descending order of Department Id.
-	    ![17b](images/hol06/image50.png)
-	
+a)  Click the **Department Id** header and select **Sort Descending**.
+    ![17a](images/hol06/image49.png)
+
+b)  The report is now sorted in the descending order of Department Id.
+    ![17b](images/hol06/image50.png)
+
 
 
 19.  You do not want the Id and Form Factor columns in the report.
 
 
-	a)  Click the **Id** header and select **Hide Column**.</br>
-	    ![18a](images/hol06/image51.png)
-	
-	b)  Click the **Form Factor** header and select **Hide Column**.</br>
-	    ![18b](images/hol06/image52.png)
-	
-	c)  Your report now looks like:
-	    ![18c](images/hol06/image53.png)
+a)  Click the **Id** header and select **Hide Column**.</br>
+    ![18a](images/hol06/image51.png)
+
+b)  Click the **Form Factor** header and select **Hide Column**.</br>
+    ![18b](images/hol06/image52.png)
+
+c)  Your report now looks like:
+    ![18c](images/hol06/image53.png)
 
 
 20.  Create a control break on the Department Id.
 
-	a)  Click the **Department Id** header and select **Control Break**.</br>
-	    ![19a](images/hol06/image54.png)
-	
-	b)  The control break is now applied.
-	    ![19b](images/hol06/image55.png)
+a)  Click the **Department Id** header and select **Control Break**.</br>
+    ![19a](images/hol06/image54.png)
+
+b)  The control break is now applied.
+    ![19b](images/hol06/image55.png)
 
 
 21.  You want to save the customizations made from step 18 through 20. You save the report as a Named Report.
 
 
-	a)  Select **Actions &gt; Report &gt; Save Report**.
-	
-	b)  The Save Report dialog appears. For Save, select **As Named Report** and enter **Departments Hardware Report** for Name. Click **Apply**.
-	    ![20a](images/hol06/image56.png)
-	
-	c)  The report is saved and is now available in the Reports drop down list.
-	    ![20b](images/hol06/image57.png)
+a)  Select **Actions &gt; Report &gt; Save Report**.
+
+b)  The Save Report dialog appears. For Save, select **As Named Report** and enter **Departments Hardware Report** for Name. Click **Apply**.
+    ![20a](images/hol06/image56.png)
+
+c)  The report is saved and is now available in the Reports drop down list.
+    ![20b](images/hol06/image57.png)
 
 
 
 22.  You want to reset the primary report to default settings now.
 
-	a)  From the Reports down list, select **Primary Report**.
-	
-	b)  Select **Actions &gt; Report &gt; Reset**.
-	
-	c)  In the Reset dialog, click **Apply**.
-	
-	d)  The primary report is now restored to default settings. The customizations you made to your private reports are available.
-	    ![21](images/hol06/image58.png)
+a)  From the Reports down list, select **Primary Report**.
+
+b)  Select **Actions &gt; Report &gt; Reset**.
+
+c)  In the Reset dialog, click **Apply**.
+
+d)  The primary report is now restored to default settings. The customizations you made to your private reports are available.
+    ![21](images/hol06/image58.png)
 
 
 ## HOL 6-2: Customizing an Interactive Report as a Developer
