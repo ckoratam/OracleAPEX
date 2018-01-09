@@ -90,17 +90,17 @@ In this hands-on lab, you create an authorization scheme to ensure only people e
 
 10.  Click **Create User**.
 
-    To create a user, input the following:
+   To create a user, input the following:
 
-	-   Username - enter unauthorized
+   -   Username - enter unauthorized
 	
-	-   Email Address - enter unauthorized@email.com
+   -   Email Address - enter unauthorized@email.com
 	
-	-   Password - enter unauthorized
+   -   Password - enter unauthorized
 	
-	-   Confirm Password - enter unauthorized
+   -   Confirm Password - enter unauthorized
 	
-	-   Require Change of Password on First Use - No
+   -   Require Change of Password on First Use - No
 
    Click **Create User**.
    ![1i](images/hol13/image11.png)
