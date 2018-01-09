@@ -74,7 +74,7 @@ On the Maintain Project page, the Completed Date field is displayed irrespective
 	
 	-   Client-side Condition &gt; Value: Enter **COMPLETED**
 
-     **Note**: The capitalization and spelling of the value must match the data entry value exactly in order for the dynamic action to fire.
+     **Note**: The capitalization and spelling of the value must match the data entry value exactly in order for the dynamic action to fire. </br>
     ![1b1](images/hol15/image5.png)
 
 10.  In the Rendering tree, under the Show Completed Date dynamic action, expand the **True** node and select **Show**.
@@ -161,7 +161,7 @@ In this hands-on lab, first, you rename the breadcrumb entry for Page 9 as Maint
     In the navigation menu, click Tasks.
 
     In the interactive grid, click the Edit icon for a task with milestones. </br>
-    ![2g](images/hol15/image17.png}
+    ![2g](images/hol15/image17.png)
 
 10.  Try selecting different values for **Milestone** to see how the Due Date is updated based on the selection.
     ![2h](images/hol15/image18.png)
