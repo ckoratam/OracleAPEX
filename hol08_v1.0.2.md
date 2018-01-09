@@ -51,7 +51,7 @@ In the Demo Projects application, you create a report that allows each Team Memb
 
 	-   Identification: Name - enter **Maintain Project**
 	
-	-   Identification: Title - enter **Maintain Project
+	-   Identification: Title - enter **Maintain Project**
 	    **![1h](images/hol08/image10.png)
 
     Scroll down to Navigation and for Cursor Focus, select **First item on page**. Then, click **Save**.
@@ -65,10 +65,10 @@ In the Demo Projects application, you create a report that allows each Team Memb
 
 13.  In the Property Editor:
 
-	-   Identification: Name - enter **Maintain Milestone** </br>
-	
-	-   Identification: Title - enter **Maintain Milestone </br>
-	    **![1l](images/hol08/image14.png)
+-   Identification: Name - enter **Maintain Milestone** </br>
+
+-   Identification: Title - enter **Maintain Milestone** </br>
+    **![1l](images/hol08/image14.png)
 
     Scroll down to Navigation and for Cursor Focus, select **First item on page**. Then, click **Save**. </br>
     ![1m](images/hol08/image15.png)
@@ -82,8 +82,8 @@ In the Demo Projects application, you create a report that allows each Team Memb
 
 17.  In the Property Editor:
 
-	-   Identification: Name - enter **Maintain Task** 
-	-   Identification: Title - enter **Maintain Task** </br>
+-   Identification: Name - enter **Maintain Task** 
+-   Identification: Title - enter **Maintain Task** </br>
 	
      ![1l](images/hol08/image14.png)
 	 </br>Scroll down to Navigation and for Cursor Focus, select **First item on page**. </br>
