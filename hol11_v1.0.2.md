@@ -2,12 +2,12 @@
 
 ![apex-round-128.pdf](images/hol11/image2.jpeg)
 
-#Oracle Application Express: Developing Database Web Applications
+# Oracle Application Express: Developing Database Web Applications
 
 
-#Hands-On-Labs Guide
+# Hands-On-Labs Guide
 
-##Unit 11: Implementing Navigation in your Application
+## Unit 11: Implementing Navigation in your Application
 
 In this hands-on lab, you implement navigation in the Demo Projects application.
 
@@ -129,13 +129,12 @@ In this hands-on lab, you update breadcrumb entries for the pages in the Demo Pr
 23.  Update the breadcrumb entry for the page.
 
 
-	a)  In the Rendering tree, click the **Shared Components** tab.
+   a)  In the Rendering tree, click the **Shared Components** tab.
 	
-	b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
+   b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
 	
-	c)  In the Property Editor, click the **Edit Component** button.
-
-    ![2c](images/hol11/image21.png)
+   c)  In the Property Editor, click the **Edit Component** button.
+      ![2c](images/hol11/image21.png)
 
 24.  Click the **Demo Projects** breadcrumb entry.
 
@@ -156,20 +155,19 @@ In this hands-on lab, you update breadcrumb entries for the pages in the Demo Pr
 
 29.  In the Property Editor:
 
-	-   Identification: Name - enter **Milestones**
+   -   Identification: Name - enter **Milestones**
 	
-	-   Identification: Title - enter **Milestones**
-
+   -   Identification: Title - enter **Milestones** </br>
     Click **Save**.
     ![3a](images/hol11/image25.png)
 
 30.  Update the breadcrumb entry for the page.
 
-	a)  In the Rendering tree, click the **Shared Components** tab.
+   a)  In the Rendering tree, click the **Shared Components** tab.
 	
-	b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
+   b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
 	
-	c)  In the Property Editor, click the **Edit Component** button.
+   c)  In the Property Editor, click the **Edit Component** button.
 
 
 31.  Click the **Demo Proj Milestones** breadcrumb entry.
@@ -191,19 +189,18 @@ In this hands-on lab, you update breadcrumb entries for the pages in the Demo Pr
 
 37.  In the Property Editor:
 
-	-   Identification: Name - enter **Tasks**
+   -   Identification: Name - enter **Tasks**
 	
-	-   Identification: Title - enter **Tasks**
-
+   -   Identification: Title - enter **Tasks** </br>
     Click **Save**.
 
 38.  Update the breadcrumb entry for the page.
 
-	a)  In the Rendering tree, click the **Shared Components** tab.
+   a)  In the Rendering tree, click the **Shared Components** tab.
 	
-	b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
+   b)  Expand the Breadcrumbs node and click the **Breadcrumb** entry.
 	
-	c)  In the Property Editor, click the **Edit Component** button.
+   c)  In the Property Editor, click the **Edit Component** button.
 
 
 39.  Click the **Demo Proj Tasks** breadcrumb entry.
