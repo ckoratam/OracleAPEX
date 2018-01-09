@@ -614,9 +614,9 @@ In this lab, you update the page items on the form page. You use list of values 
 
 27.  In the Rendering tree, click the **P9\_IS\_COMPLETE\_YN** item. In the Property Editor:
 
-	-   Identification: Type - select **Switch**
-	
-	-   Label: Label - enter **Completed?**
+-   Identification: Type - select **Switch**
+
+-   Label: Label - enter **Completed?**
 
     ![5d](images/hol09/image60.png)
 
@@ -663,7 +663,7 @@ In this lab, you update the page items on the form page. You use list of values 
 
 41.  Click and hold **Display Only** and drag it to the left of the **P9\_MILESTONE\_ID** in the Layout.
 
-    You will need to hover to the left of the existing item before the dark yellow box displays next to the existing item.
+   You will need to hover to the left of the existing item before the dark yellow box displays next to the existing item.
     ![5i](images/hol09/image65.png)
 
 42.  Set the attributes for the new item. In the Property Editor:
@@ -676,7 +676,7 @@ In this lab, you update the page items on the form page. You use list of values 
 	
 	-   Source: Type - select **Null**
 
-     **Note**: This item is display only and is not based on a Database Column. As such it is very important to not save session state for this item and to set the source type appropriately.</br>
+   **Note**: This item is display only and is not based on a Database Column. As such it is very important to not save session state for this item and to set the source type appropriately.</br>
     ![5j](images/hol09/image66.png)
 
 ----------
