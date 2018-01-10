@@ -3,7 +3,7 @@
         "title": "Oracle Application Express",
         "description": "This series of hands-on labs is designed to teach you how to build applications using Application Express. The primary vehicle for teaching is a single use case which is expanded on with each lab.",
         "theme": "ttc",
-        "interactive":"https://launch.oracle.com/?cloudnative",
+        "interactive":"https://www.oracle.com/technetwork/developer-tools/apex/overview/index.html",
         "labs": [
             {
                 "number": "0",
