@@ -1,0 +1,45 @@
+{
+    "workshop": {
+        "title": "Oracle Application Express",
+        "description": "This series of hands-on labs is designed to teach you how to build applications using Application Express. The primary vehicle for teaching is a single use case which is expanded on with each lab.",
+        "theme": "ttc",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "README.md",
+                "title": "README First",
+                "description": "Step-by-step workshop instructions"
+            },
+            {
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Trial Account Student Guide",
+                "description": "This Student Guide should be reviewed if you acquired a Trial Account from Oracle. It provides the required Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "hol01_v1.0.2.md",
+                "title": "Lab 100: Getting Started with Oracle Application Express",
+                "description": "Login to Oracle Application Express and navigate through the major components."
+            },
+            {
+                "number": "200",
+                "filename": "hol02_v1.0.2.md",
+                "title": "Lab 200: Using SQL Workshop",
+                "description": "Load tables and data and create a look up table."
+            },
+            {
+                "number": "300",
+                "filename": "hol03_v1.0.2.md",
+                "title": "Lab 300: Creating a Database Application",
+                "description": "Create a database application from scratch, from a spreadsheet, and using a websheet application."
+            },
+            {
+                "number": "400",
+                "filename": "hol04_v1.0.2.md",
+                "title": "Lab 400: Managing Pages in Page Designer",
+                "description": "Navigate through the page designer panes and add a chart region and edit the chart attributes."
+            }
+        ]
+    }
+}
