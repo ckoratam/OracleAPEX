@@ -4,13 +4,13 @@
 ![apex-round-128.pdf](images/overivew/image2.jpeg)
 
  
-# Oracle Application Express: Developing Database Web Applications
+## Oracle Application Express: Developing Database Web Applications
 
 
-# Hands-On-Labs Guide
+## Hands-On-Labs Guide
 
 
-## Overview
+### Overview
 
 
 This series of hands-on labs is designed to teach you how to build applications using Application Express. The primary vehicle for teaching is a single use case which is expanded on with each lab.
@@ -41,7 +41,7 @@ To run these hands-on-labs, you need to:
 The apex-course-labs.zip file includes the scripts required by some of the steps in the hands-on labs. For each unit, an application export file is also included. This application export is basically the completed application for all the hands-on labs in the unit. If you are unable to perform the hands-on labs in any unit, you can simply import and install the application export file for that particular unit. For example, application export for unit 16 is demo projects app-export-unit 16.sql.
 
 
-## IMPORTANT: 
+### IMPORTANT: 
 
 - The Lab documentation is **best viewed** by using the Workshop's [GitHub Pages Website URL](https://oracle.github.io/learning-library/workshops/microservices-devops). Once you are viewing the Workshop's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
 
@@ -51,13 +51,13 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 - Visit the [Workshop Interactive Labguide](https://launch.oracle.com/?OracleAPEX-curriculum) for a visual overview of the workshop content. 
 
-## Hands-on Labs Details
+### Hands-on Labs Details
 
-## Overview : Hands-on Overview
+### Overview : Hands-on Overview
 
 **Documentation**: [hol_overview_v1.0.2.md](hol_overview_v1.0.2.md)
 
-## Unit 1: Getting Started with Oracle Application Express
+### Unit 1: Getting Started with Oracle Application Express
 
 **Documentation**: [hol01_v1.0.2.md](hol01_v1.0.2.md)
 
