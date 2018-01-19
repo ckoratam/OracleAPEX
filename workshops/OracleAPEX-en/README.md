@@ -1,4 +1,6 @@
-![Snap2](images/overivew/image1.png)                                                ![apex-round-128.pdf](images/overivew/image2.jpeg)
+![Snap2](images/overivew/image1.png)     
+
+![apex-round-128.pdf](images/overivew/image2.jpeg)
 
  
 ## Oracle Application Express: Developing Database Web Applications
@@ -45,7 +47,7 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 - To log issues and view the Lab Guide source, go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository.
 
-### Hands-on Labs Details
+## Hands-on Labs Details
 
 ### Overview : Hands-on Overview
 
@@ -55,7 +57,7 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 **Documentation**: [hol01_v1.0.2.md](hol01_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - Log in to Oracle APEX environment
 - Navigating through the Major Components of Oracle APEX
@@ -66,7 +68,7 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 **Documentation**: [hol01_v1.0.2.md](hol01_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 2-1: Loading the Tables and Data
 - HOL 2-2: Creating a Lookup Table
@@ -75,7 +77,7 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 **Documentation**: [hol03_v1.0.2.md](hol03_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 3-1: Creating a Database Application from Scratch
 - HOL 3-2: Creating a Database Application from a Spreadsheet
@@ -91,12 +93,11 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 - Reviewing Page Designer
 - Editing page components in Page Designer
 
-
 ## Unit 5:  Developing Reports
 
 **Documentation**: [hol05_v1.0.2.md](hol05_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 5-1: Creating a Classic Report
 - HOL 5-2: Creating an Interactive Report
@@ -106,17 +107,16 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 **Documentation**: [hol06_v1.0.2.md](hol06_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 6-1: Using an Interactive Report
 - HOL 6-2: Customizing an Interactive Report as a Developer
-
 
 ## Unit 7:  Managing and Customizing Interactive Grids
 
 **Documentation**: [hol07_v1.0.2.md](hol07_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 7-1: Customizing the Team Members Interactive Grid
 - HOL 7-2: Customizing the Projects Interactive Grid
@@ -125,22 +125,20 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 - HOL 7-5: Customizing an Interactive Grid as a Developer
 - HOL 7-6: Customizing an Interactive Grid as an End User
 
-
 ## Unit 8:  Creating and Using Forms
 
 **Documentation**: [hol08_v1.0.2.md](hol08_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 8-1: Updating the Form Pages in the Demo Projects Application
 - HOL 8-2: Creating a Form on a Table and Linking a Report
-
 
 ## Unit 9:  Creating Application Page Controls
 
 **Documentation**: [hol09_v1.0.2.md](hol09_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 9-1: Updating the Team Members Pages
 - HOL 9-2: Updating the Projects Pages
@@ -151,79 +149,72 @@ The apex-course-labs.zip file includes the scripts required by some of the steps
 
 **Documentation**: [hol10_v1.0.2.md](hol10_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 10-1: Implementing Validations on the Maintain Project Page
 - HOL 10-2: Creating and Using a Computation
 - HOL 10-3: Creating and Using a Process
 - HOL 10-4: Creating and Using Validations
 
-
 ## Unit 11:  Implementing Navigation in your Application
 
 **Documentation**: [hol11_v1.0.2.md](hol11_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - Updating the Breadcrumb Entries for the Team Members, Projects, Milestones, and Tasks pages
 - Updating the Navigation Menu Entries and Including Icons
-
 
 ## Unit 12:  Using Themes and Theme Styles
 
 **Documentation**: [hol12_v1.0.2.md](hol12_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - HOL 12-1: Updating the Navigation List
 - HOL 12-2: Updating the Team Members Pages
 - HOL 12-3: Creating and Using Theme Styles
 
-
-
 ## Unit 13:  Implementing Security in your Application 
 
 **Documentation**: [hol13_v1.0.2.md](hol13_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Complete Sprint
-- Run Backlog and Sprint Reports
-- Review Administrative Tasks
-
+- HOL 13-1: Creating and Using an Authorization Scheme
+- HOL 13-2: Creating and Using an Authentication Scheme
+- HOL 13-3: Controlling User Access by Using the Access Control Administration
 
 ## Unit 14:  Adding Additional Pages to your Application 
 
 **Documentation**: [hol14_v1.0.2.md](hol14_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Complete Sprint
-- Run Backlog and Sprint Reports
-- Review Administrative Tasks
-
+- HOL 14-1: Creating and Customizing a Calendar
+- HOL 14-2: Adding the Project Tasks Chart
+- HOL 14-3: Adding the Project Milestones Chart
+- HOL 14-4: Adding the Project Leads Chart
+- HOL 14-5: Adding the Project Tree
 
 ## Unit 15:  Creating and Using Dynamic Actions and Plug-ins
 
 **Documentation**: [hol15_v1.0.2.md](hol15_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Complete Sprint
-- Run Backlog and Sprint Reports
-- Review Administrative Tasks
+- HOL 15-1: Creating and Using a Dynamic Action on the Maintain Project Page
+- HOL 15-2: Creating and Using a Dynamic Action on the Maintain Task Page
+- HOL 15-3: Creating and Using Dynamic Actions on the Project Tree Page
+- HOL 15-4: Creating and Using a Plug-in
+- HOL 15-5: Updating the Home Page
 
 
 ## Unit 16:  Migrating Application Development Between Environments
 
 **Documentation**: [hol16_v1.0.2.md](hol16_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Complete Sprint
-- Run Backlog and Sprint Reports
-- Review Administrative Tasks
+- HOL 16-1: Importing an Application
+- HOL 16-2: Migrating your Application Development Between Environments
