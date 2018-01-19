@@ -19,8 +19,7 @@ The primary use case is that your team tracks projects you are currently working
 
 In this series of hands-on-labs, you also quickly build two simple applications. You use a spreadsheet to create the Budget App application that allows everyone to maintain the project cost and budget data. The Hardware application is used to make purchasing decisions of the hardware in different departments. You will then greatly improve these two applications and utilize a number of techniques such as Interactive Grids, and Interactive Reports.
 
-Prerequisites
-=============
+### Prerequisites
 
 The steps and screenshots in this hands-on-labs use Oracle Application Express 5.1.
 
