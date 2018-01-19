@@ -1,7 +1,4 @@
-![Snap2](images/overivew/image1.png)
-
-
-![apex-round-128.pdf](images/overivew/image2.jpeg)
+![Snap2](images/overivew/image1.png) ![apex-round-128.pdf](images/overivew/image2.jpeg)
 
  
 ## Oracle Application Express: Developing Database Web Applications
