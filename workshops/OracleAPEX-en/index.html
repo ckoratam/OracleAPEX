@@ -73,7 +73,7 @@
     </md-sidenav>
     
 <!--    INTERACTIVE LOADER-->
-    <md-button class="md-fab md-fab-top-right" aria-label="Interactive Tour" ng-click="showInteractive()" ng-show="enableInteractive">
+  <md-button class="md-fab md-fab-top-right" aria-label="Interactive Tour" ng-click="showInteractive()" ng-show="enableInteractive">
         <md-tooltip md-direction="left">Interactive Tour</md-tooltip> <img class="interactive-img infra" style="" src="https://oracle.github.io/learning-library/workshops/common-content/images/common/interactive-logo.png" /> </md-button>
         <div id="interactive-popup" style="visibility: hidden">
         <div class="md-dialog-container" id="interactiveDialog">
@@ -100,6 +100,7 @@
     </div>
     
     <div id='labguide' ng-bind-html='htmlContent' ng-show='selection.lab'>
+    
         <!--   content filled dynamically     -->
     </div>
     <div id='returnToTop' layout layout-align="center center">
