@@ -1,78 +1,201 @@
 # README First
 
-## IMPORTANT: How to prepare for this Workshop
+## Hands-On-Labs Guide
 
-- **Step #1**: The Lab documentation is **best viewed** by using the Workshop's [GitHub Pages Website URL](https://oracle.github.io/learning-library/workshops/microservices-devops). Once you are viewing the Workshop's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
+This series of hands-on labs are part of the course material **Oracle Application Express: Developing Database Web Applications. The labs are designed to teach you how to build applications using Oracle Application Express. The primary vehicle for teaching is a single use case which is expanded on with each lab.
+
+## Prerequisites
+
+The steps and screenshots in this hands-on-labs use Oracle Application Express 5.1.
+
+To run these hands-on-labs, you need to:
+
+-   Obtain an Oracle Application Express Workspace and a Workspace Administrator /Developer user account. Select the most appropriate option from those listed below to obtain a Workspace:
+
+    -   [apex.oracle.com](http://apex.oracle.com/) - Request a workspace on Oracleâ€™s free 'development only' service for evaluating the technology.
+
+    -   [Oracle Database Cloud Service](https://cloud.oracle.com/database) - Request service on the Oracle Database Cloud Service. Once provisioned you will be provided access to your cloud service which includes an Oracle Application Express Workspace.
+
+    -   [Oracle Database 11g Express Edition](http://www.oracle.com/technetwork/products/express-edition/overview/index.html) - Download Oracle XE and install on your laptop or desktop machine and then [download](http://www.oracle.com/technetwork/developer-tools/apex/downloads/index.html) and install the latest Oracle Application Express release.
+
+    -   [Oracle VM Virtual Box](http://www.oracle.com/technetwork/database/enterprise-edition/databaseappdev-vm-161299.html) - Download Oracle VM Virtual Box and then import the [Database Application Development Appliance](http://www.oracle.com/technetwork/database/enterprise-edition/databaseappdev-vm-161299.html) which includes Oracle Database 12c, Application Express and a number of labs pre-installed.
+
+    -   [apex-course-labs.zip](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-education-2517914.html) - On this page, download the Oracle Application Express Curriculum zip file and then extract the **apex-course-labs.zip** file into your working directory. Alternatively, you can extract the source files from [GitHub Pages Website URL](https://ckoratam.github.io/OracleAPEX/workshops/OracleAPEX-en).
+
+## IMPORTANT: 
+- The Lab documentation is **best viewed** by using the HOL's [GitHub Pages Website URL](https://ckoratam.github.io/OracleAPEX/workshops/OracleAPEX-en). Once you are viewing the HOL's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
 
     ![](images/WorkshopMenu.png)
 
-- **Step #2**: To get your Trial Account, ***Please follow the instruction*** found in the [Trial Account Student Guide](StudentGuide.md) prior to starting the Labs found in this workshop.
+- To log issues, go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository.
 
-- To log issues and view the Lab Guide source, go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository.
+## Hands-on Labs Details
 
-- Visit the [Workshop Interactive Labguide](https://launch.oracle.com/?microservices-devops) for a visual overview of the workshop content. 
+## Overview : Hands-on Overview
 
-- **Step #3**: All setup steps and lab replays have been posted on [youtube](https://www.youtube.com/playlist?list=PLPIzp-E1msrY6J_zl7Iv36dteSutyDpV4). You can **watch the videos** to gain an overview of the workshop and what's required to successfully complete the labs.
+**Documentation**: [hol_overview_v1.0.2.md](hol_overview_v1.0.2.md)
 
-## DevOps and Cloud Native Microservices Workshop
+## Unit 1: Getting Started with Oracle Application Express
 
-This Oracle Public Cloud DevOps and Cloud Native Microservices workshop will walk you through the Software Development Lifecycle (SDLC) for a Cloud Native project, during which you will create and use several Microservices. During this workshop you will take on the role of 4 personae. As the first persona - the Project Manager - you will create the projects, add tasks and features to be worked on, and assign tasks to developers.  The Project Manager will then start the initial sprint. The Java Developer persona will develop a new twitter feed microservice that will allow for retrieval and filtering of twitter data. The Full Stack Developer persona will develop a new database microservice that allows access to the product catalog data. The JavaScript Developer persona will make enhancements to the Product Catalog UI that will display the twitter data related to a select catalog item.  During the workshop, you will get exposure to Oracle Developer Cloud Service and Oracle Application Container Cloud Service.
+**Documentation**: [hol01_v1.0.2.md](hol01_v1.0.2.md)
 
-## Workshop Details
+### Labs
 
-## Lab 100: Agile Project Management
+- Log in to Oracle APEX environment
+- Navigating through the Major Components of Oracle APEX
+- Installing and Running a Packaged Application
 
-**Documentation**: [CloudNative100.md](CloudNative100.md)
+## Unit 2: Using SQL Workshop
 
-### Objectives
+**Documentation**: [hol01_v1.0.2.md](hol01_v1.0.2.md)
 
-- Create Initial Project
-- Create Product Issues
-- Create Issues for Twitter Feed Microservice
-- Create Issues for Database Microservice
-- Create Issues for Product Catalog UI enhancements
-- Create Agile Board and initial Sprint
-- Add Issues to Sprint
+### Labs
 
-## Lab 200: Continuous Delivery of Java Microservices
+- HOL 2-1: Loading the Tables and Data
+- HOL 2-2: Creating a Lookup Table
 
-**Documentation**: [CloudNative200.md](CloudNative200.md)
+## Unit 3: Creating a Database Application
 
-### Objectives
+**Documentation**: [hol03_v1.0.2.md](hol03_v1.0.2.md)
 
-- Access Developer Cloud Service
-- Import Code from external Git Repository
-- Import Project into Eclipse
-- Build and Deploy project using Developer Cloud Service and Oracle Application Container Cloud Service
+### Labs
 
-## Lab 300: Continuous Delivery of Database Microservices
+- HOL 3-1: Creating a Database Application from Scratch
+- HOL 3-2: Creating a Database Application from a Spreadsheet
+- HOL 3-3: Creating a Websheet Application
 
-**Documentation**: [CloudNativeMy300.md](CloudNative300.md)
+## Unit 4: Managing Pages in Page Designer
+
+**Documentation**: [hol04_v1.0.2.md](hol04_v1.0.2.md)
 
 ### Objectives
 
-- Access Developer Cloud Service
-- Import Code from external Git Repository
-- Build and Deploy project using Developer Cloud Service and Oracle Application Container Cloud Service
+- Creating a Dashboard
+- Reviewing Page Designer
+- Editing page components in Page Designer
 
-## Lab 400: Cloud Native Rapid JavaScript Development with node.js
+## Unit 5:  Developing Reports
 
-**Documentation**: [CloudNative400.md](CloudNative400.md)
+**Documentation**: [hol05_v1.0.2.md](hol05_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Import Code from external Git Repository
-- Import Project into Brackets
-- Build and Deploy project using Developer Cloud Service and Oracle Application Container Cloud Service
+- HOL 5-1: Creating a Classic Report
+- HOL 5-2: Creating an Interactive Report
+- HOL 5-3: Creating an Interactive Grid
 
-## Lab 500:  Oracle Developer Cloud Service Administration
+## Unit 6:  Managing and Customizing Interactive Reports
 
-**Documentation**: [CloudNative500.md](CloudNative500.md)
+**Documentation**: [hol06_v1.0.2.md](hol06_v1.0.2.md)
 
-### Objectives
+### Labs
 
-- Access Developer Cloud Service
-- Complete Sprint
-- Run Backlog and Sprint Reports
-- Review Administrative Tasks
+- HOL 6-1: Using an Interactive Report
+- HOL 6-2: Customizing an Interactive Report as a Developer
+
+## Unit 7:  Managing and Customizing Interactive Grids
+
+**Documentation**: [hol07_v1.0.2.md](hol07_v1.0.2.md)
+
+### Labs
+
+- HOL 7-1: Customizing the Team Members Interactive Grid
+- HOL 7-2: Customizing the Projects Interactive Grid
+- HOL 7-3: Customizing the Milestones Interactive Grid
+- HOL 7-4: Customizing the Tasks Interactive Grid
+- HOL 7-5: Customizing an Interactive Grid as a Developer
+- HOL 7-6: Customizing an Interactive Grid as an End User
+
+## Unit 8:  Creating and Using Forms
+
+**Documentation**: [hol08_v1.0.2.md](hol08_v1.0.2.md)
+
+### Labs
+
+- HOL 8-1: Updating the Form Pages in the Demo Projects Application
+- HOL 8-2: Creating a Form on a Table and Linking a Report
+
+## Unit 9:  Creating Application Page Controls
+
+**Documentation**: [hol09_v1.0.2.md](hol09_v1.0.2.md)
+
+### Labs
+
+- HOL 9-1: Updating the Team Members Pages
+- HOL 9-2: Updating the Projects Pages
+- HOL 9-3: Updating the Milestones Pages
+- HOL 9-4: Updating the Tasks Pages
+
+## Unit 10:  Adding Computations, Processes, and Validations
+
+**Documentation**: [hol10_v1.0.2.md](hol10_v1.0.2.md)
+
+### Labs
+
+- HOL 10-1: Implementing Validations on the Maintain Project Page
+- HOL 10-2: Creating and Using a Computation
+- HOL 10-3: Creating and Using a Process
+- HOL 10-4: Creating and Using Validations
+
+## Unit 11:  Implementing Navigation in your Application
+
+**Documentation**: [hol11_v1.0.2.md](hol11_v1.0.2.md)
+
+### Labs
+
+- Updating the Breadcrumb Entries for the Team Members, Projects, Milestones, and Tasks pages
+- Updating the Navigation Menu Entries and Including Icons
+
+## Unit 12:  Using Themes and Theme Styles
+
+**Documentation**: [hol12_v1.0.2.md](hol12_v1.0.2.md)
+
+### Labs
+
+- HOL 12-1: Updating the Navigation List
+- HOL 12-2: Updating the Team Members Pages
+- HOL 12-3: Creating and Using Theme Styles
+
+## Unit 13:  Implementing Security in your Application 
+
+**Documentation**: [hol13_v1.0.2.md](hol13_v1.0.2.md)
+
+### Labs
+
+- HOL 13-1: Creating and Using an Authorization Scheme
+- HOL 13-2: Creating and Using an Authentication Scheme
+- HOL 13-3: Controlling User Access by Using the Access Control Administration
+
+## Unit 14:  Adding Additional Pages to your Application 
+
+**Documentation**: [hol14_v1.0.2.md](hol14_v1.0.2.md)
+
+### Labs
+
+- HOL 14-1: Creating and Customizing a Calendar
+- HOL 14-2: Adding the Project Tasks Chart
+- HOL 14-3: Adding the Project Milestones Chart
+- HOL 14-4: Adding the Project Leads Chart
+- HOL 14-5: Adding the Project Tree
+
+## Unit 15:  Creating and Using Dynamic Actions and Plug-ins
+
+**Documentation**: [hol15_v1.0.2.md](hol15_v1.0.2.md)
+
+### Labs
+
+- HOL 15-1: Creating and Using a Dynamic Action on the Maintain Project Page
+- HOL 15-2: Creating and Using a Dynamic Action on the Maintain Task Page
+- HOL 15-3: Creating and Using Dynamic Actions on the Project Tree Page
+- HOL 15-4: Creating and Using a Plug-in
+- HOL 15-5: Updating the Home Page
+
+
+## Unit 16:  Migrating Application Development Between Environments
+
+**Documentation**: [hol16_v1.0.2.md](hol16_v1.0.2.md)
+
+### Labs
+
+- HOL 16-1: Importing an Application
+- HOL 16-2: Migrating your Application Development Between Environments
