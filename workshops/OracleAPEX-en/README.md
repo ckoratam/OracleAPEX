@@ -20,7 +20,7 @@ To run these hands-on-labs, you need to:
 
     -   [Oracle VM Virtual Box](http://www.oracle.com/technetwork/database/enterprise-edition/databaseappdev-vm-161299.html) - Download Oracle VM Virtual Box and then import the [Database Application Development Appliance](http://www.oracle.com/technetwork/database/enterprise-edition/databaseappdev-vm-161299.html) which includes Oracle Database 12c, Application Express and a number of labs pre-installed.
 
--   Download the lab files. [apex-course-labs.zip](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-education-2517914.html) - On this page, download the Oracle Application Express Curriculum zip file and then extract the **apex-course-labs.zip** file into your working directory. Alternatively, you can extract the source files from [GitHub Pages Website URL](https://ckoratam.github.io/OracleAPEX/workshops/OracleAPEX-en).
+-   Download the lab source files from [GitHub Page](https://github.com/ckoratam/OracleAPEX-Curriculum). Alternatively, download the Oracle Application Express Curriculum zip file and then extract the **apex-course-labs.zip** file into your working directory: [apex-course-labs.zip](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-education-2517914.html) 
 
 ## IMPORTANT: 
 - The Lab documentation is **best viewed** by using the HOL's [GitHub Pages Website URL](https://ckoratam.github.io/OracleAPEX/workshops/OracleAPEX-en). Once you are viewing the HOL's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
