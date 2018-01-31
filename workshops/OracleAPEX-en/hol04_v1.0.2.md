@@ -139,5 +139,5 @@ In this lab, you create a dashboard by adding a new component to the Home page o
     o)  You might have to log in using Workspace username and password. The Demo Projects application home page now looks like:</br>
         ![1](images/hol04/image19.png)
 
-![Snap3.jpeg](images/hol04/image20.gif)
+![Snap3.jpeg](images/hol04/image20.png)
 ---------
