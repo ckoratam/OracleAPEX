@@ -1,16 +1,4 @@
-![Snap2](images/hol03/image1.png)
-
-
-![apex-round-128.pdf](images/hol03/image2.jpeg)
-
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 3: Creating a Database Application
-
+# Unit 3: Creating a Database Application
 
 This exercise includes three hands-on-labs.
 
