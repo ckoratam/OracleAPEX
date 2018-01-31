@@ -450,4 +450,4 @@ In this lab, you edit an interactive report in page designer and customize it fo
 
 ----------
 
-![Snap3.jpeg](images/hol06/image74.gif)
+![Snap3.jpeg](images/hol06/image74.png)
