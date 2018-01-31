@@ -671,4 +671,4 @@ In this lab, you update the page items on the form page. You use list of values 
 
 ----------
 
-![Snap3.jpeg](images/hol09/image67.gif)
+![Snap3.jpeg](images/hol09/image67.png)
