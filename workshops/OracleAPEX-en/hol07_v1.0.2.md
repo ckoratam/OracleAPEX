@@ -549,4 +549,4 @@ In this lab, you use and customize the display of your interactive grid. You als
     ![7j](images/hol07/image76.png)
 
 ----------
-![Snap3.jpeg](images/hol07/image77.gif)
+![Snap3.jpeg](images/hol07/image77.png)
