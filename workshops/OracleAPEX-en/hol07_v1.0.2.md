@@ -1,13 +1,4 @@
-![Snap2](images/hol07/image1.png)
-
-![apex-round-128.pdf](images/hol07/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 7: Managing and Customizing Interactive Grids
+# Unit 7: Managing and Customizing Interactive Grids
 
 This exercise includes six hands-on-labs.
 
