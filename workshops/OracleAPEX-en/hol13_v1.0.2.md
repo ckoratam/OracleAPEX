@@ -1,13 +1,4 @@
-![Snap2](images/hol13/image1.png)
-
-
-![apex-round-128.pdf](images/hol13/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-# Hands-On-Labs Guide
-
-## Unit 13: Implementing Security in your Application
+# Unit 13: Implementing Security in your Application
 
 Application security is very important in the majority of applications, except for "Public" applications. You must ensure users enter valid credentials, generally username and password (Authentication), and that once logged in that each user has appropriate rights within the application (Authorization).
 
