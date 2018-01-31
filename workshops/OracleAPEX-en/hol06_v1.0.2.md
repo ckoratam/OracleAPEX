@@ -1,13 +1,4 @@
-![Snap2](images/hol06/image1.png)
-
-![apex-round-128.pdf](images/hol06/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 6: Managing and Customizing Interactive Reports
+# Unit 6: Managing and Customizing Interactive Reports
 
 This exercise includes two hands-on-labs.
 
