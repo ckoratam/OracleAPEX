@@ -12,7 +12,7 @@ To run these hands-on-labs, you need to:
 
 -   Obtain an Oracle Application Express Workspace and a Workspace Administrator /Developer user account. Select the most appropriate option from those listed below to obtain a Workspace:
 
-    -   [apex.oracle.com](http://apex.oracle.com/) - Request a workspace on Oracleâ€™s free 'development only' service for evaluating the technology.
+    -   [apex.oracle.com](http://apex.oracle.com/) - Request a workspace on Oracle's free 'development only' service for evaluating the technology.
 
     -   [Oracle Database Cloud Service](https://cloud.oracle.com/database) - Request service on the Oracle Database Cloud Service. Once provisioned you will be provided access to your cloud service which includes an Oracle Application Express Workspace.
 
