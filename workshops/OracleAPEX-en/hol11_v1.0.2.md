@@ -1,13 +1,4 @@
-![Snap2](images/hol11/image1.png)
-
-![apex-round-128.pdf](images/hol11/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 11: Implementing Navigation in your Application
+# Unit 11: Implementing Navigation in your Application
 
 In this hands-on lab, you implement navigation in the Demo Projects application.
 
