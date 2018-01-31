@@ -1,12 +1,4 @@
-![Snap2](images/hol15/image1.png)
-
-![apex-round-128.pdf](images/hol15/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-# Hands-On-Labs Guide
-
-## Unit 15: Creating and Using Dynamic Actions and Plug-ins
+# Unit 15: Creating and Using Dynamic Actions and Plug-ins
 
 This exercise includes five hands-on-labs and uses the Demo Projects application.
 
