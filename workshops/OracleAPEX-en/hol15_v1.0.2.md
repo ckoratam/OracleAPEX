@@ -517,4 +517,4 @@ In this lab, you create a dashboard by adding new components to the Home page of
 
 ----------
 
-![Snap3](images/hol15/image62.gif)
+![Snap3](images/hol15/image62.png)
