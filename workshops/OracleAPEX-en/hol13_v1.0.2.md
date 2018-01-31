@@ -374,4 +374,4 @@ In this hands-on lab, you first create an access control page and set the applic
 
 ----------
 
-![Snap3](images/hol13/image54.gif)
+![Snap3](images/hol13/image54.png)
