@@ -163,4 +163,4 @@ In this lab, you first create a classic report on the PROJECT\_BUDGET table. The
     ![2h](images/hol08/image25.png)
 
 ----------
-![Snap3.jpeg](images/hol08/image26.gif)
+![Snap3.jpeg](images/hol08/image26.png)
