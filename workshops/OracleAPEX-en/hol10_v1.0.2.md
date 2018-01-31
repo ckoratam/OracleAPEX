@@ -1,13 +1,4 @@
-![Snap2](images/hol10/image1.png)
-
-![apex-round-128.pdf](images/hol10/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 10: Adding Computations, Processes, and Validations
+# Unit 10: Adding Computations, Processes, and Validations
 
 This exercise includes four hands-on-labs.
 
