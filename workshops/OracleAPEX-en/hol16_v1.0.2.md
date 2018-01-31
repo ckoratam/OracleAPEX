@@ -1,12 +1,4 @@
-![Snap2](images/hol16/image1.png)
-
-![apex-round-128.pdf](images/hol16/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-# Hands-On-Labs Guide
-
-## Unit 16: Migrating Application Development Between Environments
+# Unit 16: Migrating Application Development Between Environments
 
 This exercise includes two hands-on-labs and uses the Demo Projects application.
 
