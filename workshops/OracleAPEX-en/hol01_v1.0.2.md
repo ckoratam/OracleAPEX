@@ -13,7 +13,7 @@ To log in to Oracle Application Express, you need a Workspace name, username, an
 
 1.  Log in to Oracle Application Express Workspace. Perform the following steps:
   
-    a)  Open your browser and enter the URL to sign in to Application Express development environment. You can access the Oracle Application Express application with the URL: http://&lt;hostname&gt;:&lt;port&gt;/apex. Alternatively, if you have already signed up for a free Workspace on apex.oracle.com, use the URL: <http://apex.oracle.com>, then click the Sign In button (top right).
+    a)  Open your browser and enter the URL to sign in to Application Express development environment. You can access the Oracle Application Express application with the URL: http://&lt;hostname&gt;:&lt;port&gt;/apex. Alternatively, if you have already signed up for a free Workspace on apex.oracle.com, use the URL: https://apex.oracle.com, then click the Sign In button (top right).
 
     b)  The login page appears. Enter the Workspace name, username, and password. Click **Sign In**. You may be prompted to change your Workspace password the first time you log in. This option is set when your username and password are created by the Oracle Application Express administrator. You can set your new password to be the same as your old password.
     
