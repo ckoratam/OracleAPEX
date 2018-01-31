@@ -29,7 +29,7 @@ To run these hands-on-labs, you need to:
 
 - To log issues, go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository.
 
-## Overview: Hands-on Overview
+## Hands-on Overview
 
 **Documentation**: [hol_overview_v1.0.2.md](hol_overview_v1.0.2.md)
 
