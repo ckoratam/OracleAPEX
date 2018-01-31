@@ -225,4 +225,4 @@ In this hands-on lab, you use the Theme Roller to save a Theme Style. Then, you 
      ![3j](images/hol12/image29.png)
 
 ----------
-![Snap3](images/hol12/image30.gif)
+![Snap3](images/hol12/image30.png)
