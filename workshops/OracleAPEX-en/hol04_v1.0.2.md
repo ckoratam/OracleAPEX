@@ -1,14 +1,4 @@
-![Snap2](images/hol04/image1.png)
-
-![apex-round-128.pdf](images/hol04/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 4: Managing Pages in Page Designer
-
+# Unit 4: Managing Pages in Page Designer
 
 In this lab, you create a dashboard by adding a new component to the Home page of the Demo Projects application. You open the home page in page designer, navigate through and review the page designer panes, add a chart region and edit the chart attributes.
 
