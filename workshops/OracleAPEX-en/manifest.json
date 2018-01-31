@@ -10,9 +10,9 @@
                 "title": "README First",
                 "description": "Step-by-step hands-on lab instructions"
             },
-            {   "number": "10",
+            {   "number": "100",
                 "filename": "Overview.md",
-                "title": "Hands-on Overview",
+                "title": "Hands-on",
                 "description": "This includes an overview and the prerequisites to run the hands-on labs"
             },
             {
