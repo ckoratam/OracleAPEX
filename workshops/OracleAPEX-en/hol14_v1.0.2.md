@@ -1,12 +1,4 @@
-![Snap2](images/hol14/image1.png)
-
-![apex-round-128.pdf](images/hol14/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-# Hands-On-Labs Guide
-
-## Unit 14: Adding Additional Pages to your Application
+# Unit 14: Adding Additional Pages to your Application
 
 This exercise includes five hands-on-labs and uses the Demo Projects application.
 
