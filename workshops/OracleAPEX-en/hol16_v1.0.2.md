@@ -251,4 +251,4 @@ Steps 3 through 15 are optional. After exporting application from the current de
 
 
 ----------
-![Snap3](images/hol16/image24.gif)
+![Snap3](images/hol16/image24.png)
