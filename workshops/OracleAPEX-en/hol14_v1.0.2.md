@@ -574,4 +574,4 @@ In this hands-on lab, you create the Project Tree and then update the applicatio
     ![navmenu](images/hol14/image74.png)
 
 ----------
-![Snap3](images/hol14/image75.gif)
+![Snap3](images/hol14/image75.png)
