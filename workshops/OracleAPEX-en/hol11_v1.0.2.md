@@ -209,4 +209,4 @@ In this hands-on lab, you update breadcrumb entries for the pages in the Demo Pr
 
 ----------
 
-![Snap3.jpeg](images/hol11/image29.gif)
+![Snap3.jpeg](images/hol11/image29.png)
