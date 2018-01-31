@@ -318,4 +318,4 @@ In this lab, you create two validations on the Project Budget form page. The fir
 
 ----------
 
-![Snap3.jpeg](images/hol10/image30.gif)
+![Snap3.jpeg](images/hol10/image30.png)
