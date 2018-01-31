@@ -1,14 +1,4 @@
-![Snap2](images/hol02/image1.png)
-
-![apex-round-128.pdf](images/hol02/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-
-## Unit 2: Using SQL Workshop
+# Unit 2: Using SQL Workshop
 
 This exercise includes two hands-on-labs.
 
