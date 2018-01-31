@@ -1,14 +1,4 @@
-![Snap2](images/hol08/image1.png)
-
-![apex-round-128.pdf](images/hol08/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 9: Creating Application Page Controls
-
+# Unit 9: Creating Application Page Controls
 
 This exercise includes four hands-on-labs. The labs cover creating and updating page items, adjusting button properties, and making the form pages visually appealing. You also create and use Dynamic and Static List of Values.
 
