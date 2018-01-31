@@ -1,13 +1,4 @@
-![Snap2](images/hol12/image1.png)
-
-![apex-round-128.pdf](images/hol12/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-# Hands-On-Labs Guide
-
-## Unit 12: Using Themes and Theme Styles
-
+# Unit 12: Using Themes and Theme Styles
 
 This exercise includes three hands-on-labs.
 
