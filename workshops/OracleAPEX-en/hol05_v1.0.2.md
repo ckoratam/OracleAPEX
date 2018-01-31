@@ -1,14 +1,4 @@
-![Snap2](images/hol04/image1.png)
-
-![apex-round-128.pdf](images/hol04/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 5: Developing Reports
-
+# Unit 5: Developing Reports
 
 This exercise includes three hands-on-labs.
 
