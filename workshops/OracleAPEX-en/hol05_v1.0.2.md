@@ -168,4 +168,4 @@ In this lab, you create an interactive grid on the PROJECT\_BUDGET table. You al
 
 ----------
 
-![Snap3.jpeg](images/hol05/image21.gif)
+![Snap3.jpeg](images/hol05/image21.png)
