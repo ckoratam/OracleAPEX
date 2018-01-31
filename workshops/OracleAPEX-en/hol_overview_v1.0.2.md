@@ -1,7 +1,3 @@
-![Snap2](images/overivew/image1.png)
-
-![apex-round-128.pdf](images/overivew/image2.jpeg)
- 
 # Hands-On-Labs Guide: Overview
 
 This series of hands-on labs is designed to teach you how to build applications using Application Express. The primary vehicle for teaching is a single use case which is expanded on with each lab.
