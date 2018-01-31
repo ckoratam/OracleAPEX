@@ -1,14 +1,4 @@
-![Snap2](images/hol08/image1.png)
-
-![apex-round-128.pdf](images/hol08/image2.jpeg)
-
-# Oracle Application Express: Developing Database Web Applications
-
-
-# Hands-On-Labs Guide
-
-## Unit 8: Creating and Using Forms
-
+# Unit 8: Creating and Using Forms
 
 This exercise includes two hands-on-labs.
 
