@@ -194,4 +194,4 @@ Tech Sales Team management want to track the daily status of the sales executive
 
 ----------
 
-![Snap3.jpeg](images/hol03/image39.gif)
+![Snap3.jpeg](images/hol03/image39.png)
