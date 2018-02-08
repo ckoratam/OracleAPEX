@@ -28,7 +28,8 @@ To run these hands-on-labs, you need to:
     ![](images/WorkshopMenu.png)
 
 - To view the Lab Guide source, go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository.
-- To log issues or to contribute translated material, go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first. See [Contributing guidelines] (https://github.com/oracle/learning-library/blob/master/CONTRIBUTING.md). Alternatively, you can send an email to the mailing list oracle-application-express_ww@oracle.com with the subject as "Oracle APEX - GitHub Request".
+- To log issues, go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first.
+- To contribute translated material, go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first. See [Contributing guidelines](https://github.com/oracle/learning-library/blob/master/CONTRIBUTING.md). Alternatively, you can send an email to the mailing list: [oracle-application-express_ww@oracle.com](oracle-application-express_ww@oracle.com?subject=Oracle APEX - GitHub Request)
 
 ## Hands-on Overview
 
