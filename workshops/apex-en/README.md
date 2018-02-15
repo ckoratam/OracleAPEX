@@ -31,7 +31,7 @@ To run these hands-on-labs, you need to:
 - To log issues, go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first.
 - Steps to contribute translated material:
    1. Go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first. See [Contributing guidelines](https://github.com/oracle/learning-library/blob/master/CONTRIBUTING.md). Alternatively, you can send an email to the mailing list:oracle-application-express_ww@oracle.com with the subject "Oracle APEX-GitHub Request".
-   2. You are added as a contributor to [GitHub](https://github.com/ckoratam/OracleAPEX)
+   2. You are then added as a contributor to this [GitHub](https://github.com/ckoratam/OracleAPEX) repository.
    3. Upon acceptance, these contributions are pulled and merged with the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository.
 
 ## Hands-on Overview
