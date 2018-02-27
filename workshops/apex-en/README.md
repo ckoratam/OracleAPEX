@@ -75,7 +75,7 @@ To run these hands-on-labs, you need to:
 
 **Documentation**: [hol04_v1.0.2.md](hol04_v1.0.2.md)
 
-### Objectives
+### Labs
 
 - Creating a Dashboard
 - Reviewing Page Designer
