@@ -33,11 +33,6 @@ To run these hands-on-labs, you need to:
    1. Go to the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository and log an issue first. See [Contributing guidelines](https://github.com/oracle/learning-library/blob/master/CONTRIBUTING.md). Alternatively, you can send an email to the mailing list:oracle-application-express_ww@oracle.com with the subject "Oracle APEX-GitHub Request".
    2. You are then added as a contributor to this [GitHub](https://github.com/ckoratam/OracleAPEX) repository.
    3. Upon acceptance, these contributions are pulled and merged with the [github oracle](https://github.com/oracle/learning-library/tree/master/workshops/apex-en) repository.
-- Steps to contribute translated slide decks for the lessons in the course material:
-   1. Go to [https://apex.oracle.com/education](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-education-2517914.html) and accept the Creative Commons and UPL License Agreement for Oracle Application Express Curriculum. Download the **apex-curriculum-3681867.zip** file and then extract the **apex-curriculum-ppts** folder.
-   2. Translate the PPTs and then send an email to the mailing list:oracle-application-express_ww@oracle.com with the subject "Oracle APEX-Curriculum Request".
-   3. Upon review and acceptance, the translated material is hosted on [https://apex.oracle.com/education](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-education-2517914.html)
-
 ## Hands-on Overview
 
 **Documentation**: [hol_overview_v1.0.2.md](hol_overview_v1.0.2.md)
